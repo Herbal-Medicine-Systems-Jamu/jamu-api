@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"jamu.refformulas"},{"v":2,"unique":true,"key":{"idformula":1},"name":"idformula_1","ns":"jamu.refformulas","background":true}],"uuid":"805cab3a31c845db9542a5e1bdd5d58a"}

@@ -1,0 +1,5498 @@
+[
+  {
+    "idplant": "P00001",
+    "idcrude": "S00001"
+  },
+  {
+    "idplant": "P00001",
+    "idcrude": "S00002"
+  },
+  {
+    "idplant": "P00002",
+    "idcrude": "S00003"
+  },
+  {
+    "idplant": "P00003",
+    "idcrude": "S00004"
+  },
+  {
+    "idplant": "P00004",
+    "idcrude": "S00005"
+  },
+  {
+    "idplant": "P00005",
+    "idcrude": "S00006"
+  },
+  {
+    "idplant": "P00006",
+    "idcrude": "S00007"
+  },
+  {
+    "idplant": "P00006",
+    "idcrude": "S00008"
+  },
+  {
+    "idplant": "P00007",
+    "idcrude": "S00009"
+  },
+  {
+    "idplant": "P00007",
+    "idcrude": "S00010"
+  },
+  {
+    "idplant": "P00007",
+    "idcrude": "T00057"
+  },
+  {
+    "idplant": "P00007",
+    "idcrude": "T00058"
+  },
+  {
+    "idplant": "P00008",
+    "idcrude": "T00057"
+  },
+  {
+    "idplant": "P00008",
+    "idcrude": "T00058"
+  },
+  {
+    "idplant": "P00009",
+    "idcrude": "T00025"
+  },
+  {
+    "idplant": "P00010",
+    "idcrude": "T00009"
+  },
+  {
+    "idplant": "P00010",
+    "idcrude": "T00025"
+  },
+  {
+    "idplant": "P00010",
+    "idcrude": "T00162"
+  },
+  {
+    "idplant": "P00010",
+    "idcrude": "T00210"
+  },
+  {
+    "idplant": "P00010",
+    "idcrude": "T00226"
+  },
+  {
+    "idplant": "P00011",
+    "idcrude": "S00011"
+  },
+  {
+    "idplant": "P00012",
+    "idcrude": "S00012"
+  },
+  {
+    "idplant": "P00013",
+    "idcrude": "S00013"
+  },
+  {
+    "idplant": "P00014",
+    "idcrude": "S00014"
+  },
+  {
+    "idplant": "P00015",
+    "idcrude": "S00015"
+  },
+  {
+    "idplant": "P00016",
+    "idcrude": "S00016"
+  },
+  {
+    "idplant": "P00017",
+    "idcrude": "S00017"
+  },
+  {
+    "idplant": "P00017",
+    "idcrude": "S00018"
+  },
+  {
+    "idplant": "P00018",
+    "idcrude": "S00019"
+  },
+  {
+    "idplant": "P00019",
+    "idcrude": "S00020"
+  },
+  {
+    "idplant": "P00020",
+    "idcrude": "S00021"
+  },
+  {
+    "idplant": "P00020",
+    "idcrude": "S00022"
+  },
+  {
+    "idplant": "P00021",
+    "idcrude": "S00023"
+  },
+  {
+    "idplant": "P00022",
+    "idcrude": "S00024"
+  },
+  {
+    "idplant": "P00023",
+    "idcrude": "T00175"
+  },
+  {
+    "idplant": "P00023",
+    "idcrude": "T00212"
+  },
+  {
+    "idplant": "P00024",
+    "idcrude": "S00025"
+  },
+  {
+    "idplant": "P00024",
+    "idcrude": "T00175"
+  },
+  {
+    "idplant": "P00024",
+    "idcrude": "T00212"
+  },
+  {
+    "idplant": "P00025",
+    "idcrude": "S00026"
+  },
+  {
+    "idplant": "P00026",
+    "idcrude": "S00027"
+  },
+  {
+    "idplant": "P00027",
+    "idcrude": "S00028"
+  },
+  {
+    "idplant": "P00027",
+    "idcrude": "S00029"
+  },
+  {
+    "idplant": "P00027",
+    "idcrude": "S00030"
+  },
+  {
+    "idplant": "P00028",
+    "idcrude": "T00118"
+  },
+  {
+    "idplant": "P00029",
+    "idcrude": "S00031"
+  },
+  {
+    "idplant": "P00030",
+    "idcrude": "S00032"
+  },
+  {
+    "idplant": "P00031",
+    "idcrude": "S00033"
+  },
+  {
+    "idplant": "P00032",
+    "idcrude": "S00034"
+  },
+  {
+    "idplant": "P00033",
+    "idcrude": "S00035"
+  },
+  {
+    "idplant": "P00033",
+    "idcrude": "T00110"
+  },
+  {
+    "idplant": "P00033",
+    "idcrude": "T00233"
+  },
+  {
+    "idplant": "P00034",
+    "idcrude": "S00036"
+  },
+  {
+    "idplant": "P00034",
+    "idcrude": "S00037"
+  },
+  {
+    "idplant": "P00034",
+    "idcrude": "S00038"
+  },
+  {
+    "idplant": "P00035",
+    "idcrude": "S00039"
+  },
+  {
+    "idplant": "P00035",
+    "idcrude": "T00142"
+  },
+  {
+    "idplant": "P00036",
+    "idcrude": "S00040"
+  },
+  {
+    "idplant": "P00037",
+    "idcrude": "S00041"
+  },
+  {
+    "idplant": "P00038",
+    "idcrude": "S00042"
+  },
+  {
+    "idplant": "P00039",
+    "idcrude": "S00043"
+  },
+  {
+    "idplant": "P00040",
+    "idcrude": "S00044"
+  },
+  {
+    "idplant": "P00041",
+    "idcrude": "S00045"
+  },
+  {
+    "idplant": "P00041",
+    "idcrude": "T00190"
+  },
+  {
+    "idplant": "P00042",
+    "idcrude": "S00046"
+  },
+  {
+    "idplant": "P00043",
+    "idcrude": "S00047"
+  },
+  {
+    "idplant": "P00043",
+    "idcrude": "S00048"
+  },
+  {
+    "idplant": "P00044",
+    "idcrude": "S00049"
+  },
+  {
+    "idplant": "P00045",
+    "idcrude": "S00050"
+  },
+  {
+    "idplant": "P00046",
+    "idcrude": "T00153"
+  },
+  {
+    "idplant": "P00047",
+    "idcrude": "S00051"
+  },
+  {
+    "idplant": "P00047",
+    "idcrude": "S00052"
+  },
+  {
+    "idplant": "P00047",
+    "idcrude": "S00053"
+  },
+  {
+    "idplant": "P00047",
+    "idcrude": "S00054"
+  },
+  {
+    "idplant": "P00047",
+    "idcrude": "S00055"
+  },
+  {
+    "idplant": "P00048",
+    "idcrude": "S00056"
+  },
+  {
+    "idplant": "P00049",
+    "idcrude": "S00057"
+  },
+  {
+    "idplant": "P00050",
+    "idcrude": "S00058"
+  },
+  {
+    "idplant": "P00050",
+    "idcrude": "S00059"
+  },
+  {
+    "idplant": "P00051",
+    "idcrude": "S00060"
+  },
+  {
+    "idplant": "P00052",
+    "idcrude": "S00061"
+  },
+  {
+    "idplant": "P00053",
+    "idcrude": "T00091"
+  },
+  {
+    "idplant": "P00053",
+    "idcrude": "T00207"
+  },
+  {
+    "idplant": "P00054",
+    "idcrude": "S00062"
+  },
+  {
+    "idplant": "P00055",
+    "idcrude": "T00220"
+  },
+  {
+    "idplant": "P00056",
+    "idcrude": "S00063"
+  },
+  {
+    "idplant": "P00057",
+    "idcrude": "S00064"
+  },
+  {
+    "idplant": "P00058",
+    "idcrude": "S00065"
+  },
+  {
+    "idplant": "P00058",
+    "idcrude": "S00066"
+  },
+  {
+    "idplant": "P00059",
+    "idcrude": "S00067"
+  },
+  {
+    "idplant": "P00060",
+    "idcrude": "S00068"
+  },
+  {
+    "idplant": "P00060",
+    "idcrude": "S00069"
+  },
+  {
+    "idplant": "P00061",
+    "idcrude": "S00070"
+  },
+  {
+    "idplant": "P00061",
+    "idcrude": "S00071"
+  },
+  {
+    "idplant": "P00062",
+    "idcrude": "S00072"
+  },
+  {
+    "idplant": "P00062",
+    "idcrude": "S00073"
+  },
+  {
+    "idplant": "P00063",
+    "idcrude": "S00074"
+  },
+  {
+    "idplant": "P00064",
+    "idcrude": "S00075"
+  },
+  {
+    "idplant": "P00064",
+    "idcrude": "T00122"
+  },
+  {
+    "idplant": "P00065",
+    "idcrude": "S00076"
+  },
+  {
+    "idplant": "P00066",
+    "idcrude": "T00133"
+  },
+  {
+    "idplant": "P00067",
+    "idcrude": "S00077"
+  },
+  {
+    "idplant": "P00067",
+    "idcrude": "T00149"
+  },
+  {
+    "idplant": "P00068",
+    "idcrude": "T00104"
+  },
+  {
+    "idplant": "P00069",
+    "idcrude": "S00078"
+  },
+  {
+    "idplant": "P00070",
+    "idcrude": "T00137"
+  },
+  {
+    "idplant": "P00071",
+    "idcrude": "S00079"
+  },
+  {
+    "idplant": "P00072",
+    "idcrude": "S00080"
+  },
+  {
+    "idplant": "P00073",
+    "idcrude": "S00081"
+  },
+  {
+    "idplant": "P00074",
+    "idcrude": "S00082"
+  },
+  {
+    "idplant": "P00075",
+    "idcrude": "S00083"
+  },
+  {
+    "idplant": "P00075",
+    "idcrude": "S00084"
+  },
+  {
+    "idplant": "P00076",
+    "idcrude": "S00085"
+  },
+  {
+    "idplant": "P00077",
+    "idcrude": "T00174"
+  },
+  {
+    "idplant": "P00078",
+    "idcrude": "T00155"
+  },
+  {
+    "idplant": "P00078",
+    "idcrude": "T00174"
+  },
+  {
+    "idplant": "P00078",
+    "idcrude": "T00242"
+  },
+  {
+    "idplant": "P00078",
+    "idcrude": "T00243"
+  },
+  {
+    "idplant": "P00078",
+    "idcrude": "T00244"
+  },
+  {
+    "idplant": "P00078",
+    "idcrude": "T00278"
+  },
+  {
+    "idplant": "P00079",
+    "idcrude": "S00086"
+  },
+  {
+    "idplant": "P00079",
+    "idcrude": "S00087"
+  },
+  {
+    "idplant": "P00079",
+    "idcrude": "S00088"
+  },
+  {
+    "idplant": "P00079",
+    "idcrude": "S00089"
+  },
+  {
+    "idplant": "P00080",
+    "idcrude": "S00090"
+  },
+  {
+    "idplant": "P00080",
+    "idcrude": "S00091"
+  },
+  {
+    "idplant": "P00081",
+    "idcrude": "S00092"
+  },
+  {
+    "idplant": "P00082",
+    "idcrude": "T00137"
+  },
+  {
+    "idplant": "P00083",
+    "idcrude": "S00093"
+  },
+  {
+    "idplant": "P00084",
+    "idcrude": "S00094"
+  },
+  {
+    "idplant": "P00084",
+    "idcrude": "S00095"
+  },
+  {
+    "idplant": "P00084",
+    "idcrude": "T00059"
+  },
+  {
+    "idplant": "P00085",
+    "idcrude": "S00096"
+  },
+  {
+    "idplant": "P00086",
+    "idcrude": "S00097"
+  },
+  {
+    "idplant": "P00086",
+    "idcrude": "S00098"
+  },
+  {
+    "idplant": "P00086",
+    "idcrude": "T00117"
+  },
+  {
+    "idplant": "P00086",
+    "idcrude": "T00160"
+  },
+  {
+    "idplant": "P00086",
+    "idcrude": "T00205"
+  },
+  {
+    "idplant": "P00086",
+    "idcrude": "T00206"
+  },
+  {
+    "idplant": "P00086",
+    "idcrude": "T00239"
+  },
+  {
+    "idplant": "P00087",
+    "idcrude": "S00099"
+  },
+  {
+    "idplant": "P00087",
+    "idcrude": "S00100"
+  },
+  {
+    "idplant": "P00088",
+    "idcrude": "S00101"
+  },
+  {
+    "idplant": "P00089",
+    "idcrude": "S00102"
+  },
+  {
+    "idplant": "P00090",
+    "idcrude": "T00129"
+  },
+  {
+    "idplant": "P00091",
+    "idcrude": "T00129"
+  },
+  {
+    "idplant": "P00092",
+    "idcrude": "S00103"
+  },
+  {
+    "idplant": "P00093",
+    "idcrude": "S00104"
+  },
+  {
+    "idplant": "P00094",
+    "idcrude": "S00105"
+  },
+  {
+    "idplant": "P00095",
+    "idcrude": "S00106"
+  },
+  {
+    "idplant": "P00095",
+    "idcrude": "T00083"
+  },
+  {
+    "idplant": "P00095",
+    "idcrude": "T00241"
+  },
+  {
+    "idplant": "P00096",
+    "idcrude": "S00107"
+  },
+  {
+    "idplant": "P00097",
+    "idcrude": "S00108"
+  },
+  {
+    "idplant": "P00098",
+    "idcrude": "T00192"
+  },
+  {
+    "idplant": "P00099",
+    "idcrude": "S00109"
+  },
+  {
+    "idplant": "P00100",
+    "idcrude": "S00110"
+  },
+  {
+    "idplant": "P00101",
+    "idcrude": "S00111"
+  },
+  {
+    "idplant": "P00102",
+    "idcrude": "S00112"
+  },
+  {
+    "idplant": "P00102",
+    "idcrude": "S00113"
+  },
+  {
+    "idplant": "P00103",
+    "idcrude": "S00114"
+  },
+  {
+    "idplant": "P00104",
+    "idcrude": "S00115"
+  },
+  {
+    "idplant": "P00105",
+    "idcrude": "T00065"
+  },
+  {
+    "idplant": "P00106",
+    "idcrude": "T00131"
+  },
+  {
+    "idplant": "P00106",
+    "idcrude": "T00217"
+  },
+  {
+    "idplant": "P00107",
+    "idcrude": "S00116"
+  },
+  {
+    "idplant": "P00108",
+    "idcrude": "T00076"
+  },
+  {
+    "idplant": "P00109",
+    "idcrude": "S00117"
+  },
+  {
+    "idplant": "P00110",
+    "idcrude": "S00118"
+  },
+  {
+    "idplant": "P00110",
+    "idcrude": "T00015"
+  },
+  {
+    "idplant": "P00111",
+    "idcrude": "T00109"
+  },
+  {
+    "idplant": "P00112",
+    "idcrude": "T00092"
+  },
+  {
+    "idplant": "P00112",
+    "idcrude": "T00150"
+  },
+  {
+    "idplant": "P00112",
+    "idcrude": "T00234"
+  },
+  {
+    "idplant": "P00113",
+    "idcrude": "S00119"
+  },
+  {
+    "idplant": "P00113",
+    "idcrude": "T00109"
+  },
+  {
+    "idplant": "P00114",
+    "idcrude": "S00120"
+  },
+  {
+    "idplant": "P00115",
+    "idcrude": "T00092"
+  },
+  {
+    "idplant": "P00116",
+    "idcrude": "S00121"
+  },
+  {
+    "idplant": "P00117",
+    "idcrude": "S00122"
+  },
+  {
+    "idplant": "P00118",
+    "idcrude": "S00123"
+  },
+  {
+    "idplant": "P00119",
+    "idcrude": "S00124"
+  },
+  {
+    "idplant": "P00120",
+    "idcrude": "S00125"
+  },
+  {
+    "idplant": "P00120",
+    "idcrude": "S00126"
+  },
+  {
+    "idplant": "P00121",
+    "idcrude": "S00127"
+  },
+  {
+    "idplant": "P00122",
+    "idcrude": "S00128"
+  },
+  {
+    "idplant": "P00122",
+    "idcrude": "S00129"
+  },
+  {
+    "idplant": "P00123",
+    "idcrude": "S00130"
+  },
+  {
+    "idplant": "P00124",
+    "idcrude": "S00131"
+  },
+  {
+    "idplant": "P00125",
+    "idcrude": "S00132"
+  },
+  {
+    "idplant": "P00125",
+    "idcrude": "T00272"
+  },
+  {
+    "idplant": "P00126",
+    "idcrude": "S00133"
+  },
+  {
+    "idplant": "P00127",
+    "idcrude": "S00134"
+  },
+  {
+    "idplant": "P00128",
+    "idcrude": "S00135"
+  },
+  {
+    "idplant": "P00129",
+    "idcrude": "S00136"
+  },
+  {
+    "idplant": "P00130",
+    "idcrude": "S00137"
+  },
+  {
+    "idplant": "P00131",
+    "idcrude": "T00132"
+  },
+  {
+    "idplant": "P00132",
+    "idcrude": "S00138"
+  },
+  {
+    "idplant": "P00132",
+    "idcrude": "S00139"
+  },
+  {
+    "idplant": "P00133",
+    "idcrude": "S00140"
+  },
+  {
+    "idplant": "P00134",
+    "idcrude": "S00141"
+  },
+  {
+    "idplant": "P00135",
+    "idcrude": "S00142"
+  },
+  {
+    "idplant": "P00136",
+    "idcrude": "S00143"
+  },
+  {
+    "idplant": "P00137",
+    "idcrude": "S00144"
+  },
+  {
+    "idplant": "P00138",
+    "idcrude": "S00145"
+  },
+  {
+    "idplant": "P00139",
+    "idcrude": "S00146"
+  },
+  {
+    "idplant": "P00140",
+    "idcrude": "S00147"
+  },
+  {
+    "idplant": "P00141",
+    "idcrude": "S00148"
+  },
+  {
+    "idplant": "P00142",
+    "idcrude": "S00149"
+  },
+  {
+    "idplant": "P00142",
+    "idcrude": "S00150"
+  },
+  {
+    "idplant": "P00142",
+    "idcrude": "S00151"
+  },
+  {
+    "idplant": "P00142",
+    "idcrude": "S00152"
+  },
+  {
+    "idplant": "P00143",
+    "idcrude": "S00153"
+  },
+  {
+    "idplant": "P00144",
+    "idcrude": "S00154"
+  },
+  {
+    "idplant": "P00145",
+    "idcrude": "S00155"
+  },
+  {
+    "idplant": "P00146",
+    "idcrude": "T00141"
+  },
+  {
+    "idplant": "P00147",
+    "idcrude": "S00156"
+  },
+  {
+    "idplant": "P00148",
+    "idcrude": "S00157"
+  },
+  {
+    "idplant": "P00148",
+    "idcrude": "S00158"
+  },
+  {
+    "idplant": "P00149",
+    "idcrude": "S00159"
+  },
+  {
+    "idplant": "P00150",
+    "idcrude": "S00160"
+  },
+  {
+    "idplant": "P00151",
+    "idcrude": "S00161"
+  },
+  {
+    "idplant": "P00152",
+    "idcrude": "S00162"
+  },
+  {
+    "idplant": "P00152",
+    "idcrude": "S00163"
+  },
+  {
+    "idplant": "P00153",
+    "idcrude": "S00164"
+  },
+  {
+    "idplant": "P00154",
+    "idcrude": "S00165"
+  },
+  {
+    "idplant": "P00155",
+    "idcrude": "S00166"
+  },
+  {
+    "idplant": "P00155",
+    "idcrude": "T00064"
+  },
+  {
+    "idplant": "P00156",
+    "idcrude": "S00167"
+  },
+  {
+    "idplant": "P00157",
+    "idcrude": "S00168"
+  },
+  {
+    "idplant": "P00157",
+    "idcrude": "T00112"
+  },
+  {
+    "idplant": "P00158",
+    "idcrude": "S00169"
+  },
+  {
+    "idplant": "P00158",
+    "idcrude": "S00170"
+  },
+  {
+    "idplant": "P00159",
+    "idcrude": "S00171"
+  },
+  {
+    "idplant": "P00160",
+    "idcrude": "S00172"
+  },
+  {
+    "idplant": "P00160",
+    "idcrude": "S00173"
+  },
+  {
+    "idplant": "P00160",
+    "idcrude": "T00066"
+  },
+  {
+    "idplant": "P00161",
+    "idcrude": "S00174"
+  },
+  {
+    "idplant": "P00161",
+    "idcrude": "S00175"
+  },
+  {
+    "idplant": "P00162",
+    "idcrude": "S00176"
+  },
+  {
+    "idplant": "P00163",
+    "idcrude": "T00172"
+  },
+  {
+    "idplant": "P00164",
+    "idcrude": "S00177"
+  },
+  {
+    "idplant": "P00165",
+    "idcrude": "S00178"
+  },
+  {
+    "idplant": "P00165",
+    "idcrude": "S00179"
+  },
+  {
+    "idplant": "P00165",
+    "idcrude": "S00180"
+  },
+  {
+    "idplant": "P00166",
+    "idcrude": "S00181"
+  },
+  {
+    "idplant": "P00167",
+    "idcrude": "S00182"
+  },
+  {
+    "idplant": "P00168",
+    "idcrude": "S00183"
+  },
+  {
+    "idplant": "P00168",
+    "idcrude": "S00184"
+  },
+  {
+    "idplant": "P00168",
+    "idcrude": "S00185"
+  },
+  {
+    "idplant": "P00168",
+    "idcrude": "S00186"
+  },
+  {
+    "idplant": "P00169",
+    "idcrude": "S00187"
+  },
+  {
+    "idplant": "P00169",
+    "idcrude": "S00188"
+  },
+  {
+    "idplant": "P00169",
+    "idcrude": "T00053"
+  },
+  {
+    "idplant": "P00170",
+    "idcrude": "S00189"
+  },
+  {
+    "idplant": "P00171",
+    "idcrude": "S00190"
+  },
+  {
+    "idplant": "P00171",
+    "idcrude": "S00191"
+  },
+  {
+    "idplant": "P00171",
+    "idcrude": "S00192"
+  },
+  {
+    "idplant": "P00171",
+    "idcrude": "S00193"
+  },
+  {
+    "idplant": "P00171",
+    "idcrude": "S00194"
+  },
+  {
+    "idplant": "P00172",
+    "idcrude": "S00195"
+  },
+  {
+    "idplant": "P00172",
+    "idcrude": "S00196"
+  },
+  {
+    "idplant": "P00172",
+    "idcrude": "S00197"
+  },
+  {
+    "idplant": "P00172",
+    "idcrude": "S00198"
+  },
+  {
+    "idplant": "P00172",
+    "idcrude": "S00199"
+  },
+  {
+    "idplant": "P00173",
+    "idcrude": "S00200"
+  },
+  {
+    "idplant": "P00174",
+    "idcrude": "S00201"
+  },
+  {
+    "idplant": "P00174",
+    "idcrude": "S00202"
+  },
+  {
+    "idplant": "P00175",
+    "idcrude": "S00203"
+  },
+  {
+    "idplant": "P00175",
+    "idcrude": "S00204"
+  },
+  {
+    "idplant": "P00176",
+    "idcrude": "S00205"
+  },
+  {
+    "idplant": "P00177",
+    "idcrude": "S00206"
+  },
+  {
+    "idplant": "P00178",
+    "idcrude": "S00207"
+  },
+  {
+    "idplant": "P00179",
+    "idcrude": "S00208"
+  },
+  {
+    "idplant": "P00180",
+    "idcrude": "S00209"
+  },
+  {
+    "idplant": "P00181",
+    "idcrude": "S00210"
+  },
+  {
+    "idplant": "P00181",
+    "idcrude": "S00211"
+  },
+  {
+    "idplant": "P00181",
+    "idcrude": "S00212"
+  },
+  {
+    "idplant": "P00182",
+    "idcrude": "S00213"
+  },
+  {
+    "idplant": "P00183",
+    "idcrude": "S00214"
+  },
+  {
+    "idplant": "P00184",
+    "idcrude": "S00215"
+  },
+  {
+    "idplant": "P00184",
+    "idcrude": "S00216"
+  },
+  {
+    "idplant": "P00185",
+    "idcrude": "S00217"
+  },
+  {
+    "idplant": "P00185",
+    "idcrude": "S00218"
+  },
+  {
+    "idplant": "P00185",
+    "idcrude": "T00168"
+  },
+  {
+    "idplant": "P00186",
+    "idcrude": "S00219"
+  },
+  {
+    "idplant": "P00187",
+    "idcrude": "S00220"
+  },
+  {
+    "idplant": "P00188",
+    "idcrude": "S00221"
+  },
+  {
+    "idplant": "P00188",
+    "idcrude": "T00044"
+  },
+  {
+    "idplant": "P00189",
+    "idcrude": "S00222"
+  },
+  {
+    "idplant": "P00189",
+    "idcrude": "T00044"
+  },
+  {
+    "idplant": "P00190",
+    "idcrude": "S00223"
+  },
+  {
+    "idplant": "P00191",
+    "idcrude": "S00224"
+  },
+  {
+    "idplant": "P00192",
+    "idcrude": "S00225"
+  },
+  {
+    "idplant": "P00193",
+    "idcrude": "S00226"
+  },
+  {
+    "idplant": "P00194",
+    "idcrude": "T00094"
+  },
+  {
+    "idplant": "P00195",
+    "idcrude": "S00227"
+  },
+  {
+    "idplant": "P00196",
+    "idcrude": "S00228"
+  },
+  {
+    "idplant": "P00196",
+    "idcrude": "S00229"
+  },
+  {
+    "idplant": "P00196",
+    "idcrude": "S00230"
+  },
+  {
+    "idplant": "P00196",
+    "idcrude": "S00231"
+  },
+  {
+    "idplant": "P00196",
+    "idcrude": "S00232"
+  },
+  {
+    "idplant": "P00196",
+    "idcrude": "S00233"
+  },
+  {
+    "idplant": "P00197",
+    "idcrude": "S00234"
+  },
+  {
+    "idplant": "P00198",
+    "idcrude": "S00235"
+  },
+  {
+    "idplant": "P00198",
+    "idcrude": "S00236"
+  },
+  {
+    "idplant": "P00198",
+    "idcrude": "T00051"
+  },
+  {
+    "idplant": "P00198",
+    "idcrude": "T00198"
+  },
+  {
+    "idplant": "P00198",
+    "idcrude": "T00199"
+  },
+  {
+    "idplant": "P00199",
+    "idcrude": "S00237"
+  },
+  {
+    "idplant": "P00200",
+    "idcrude": "S00238"
+  },
+  {
+    "idplant": "P00200",
+    "idcrude": "S00239"
+  },
+  {
+    "idplant": "P00201",
+    "idcrude": "S00240"
+  },
+  {
+    "idplant": "P00202",
+    "idcrude": "S00241"
+  },
+  {
+    "idplant": "P00203",
+    "idcrude": "S00242"
+  },
+  {
+    "idplant": "P00204",
+    "idcrude": "S00243"
+  },
+  {
+    "idplant": "P00205",
+    "idcrude": "S00244"
+  },
+  {
+    "idplant": "P00206",
+    "idcrude": "S00245"
+  },
+  {
+    "idplant": "P00206",
+    "idcrude": "S00246"
+  },
+  {
+    "idplant": "P00206",
+    "idcrude": "S00247"
+  },
+  {
+    "idplant": "P00206",
+    "idcrude": "S00248"
+  },
+  {
+    "idplant": "P00207",
+    "idcrude": "S00249"
+  },
+  {
+    "idplant": "P00207",
+    "idcrude": "S00250"
+  },
+  {
+    "idplant": "P00207",
+    "idcrude": "S00251"
+  },
+  {
+    "idplant": "P00207",
+    "idcrude": "T00032"
+  },
+  {
+    "idplant": "P00207",
+    "idcrude": "T00043"
+  },
+  {
+    "idplant": "P00208",
+    "idcrude": "S00252"
+  },
+  {
+    "idplant": "P00209",
+    "idcrude": "S00253"
+  },
+  {
+    "idplant": "P00209",
+    "idcrude": "S00254"
+  },
+  {
+    "idplant": "P00209",
+    "idcrude": "S00255"
+  },
+  {
+    "idplant": "P00209",
+    "idcrude": "S00256"
+  },
+  {
+    "idplant": "P00210",
+    "idcrude": "S00257"
+  },
+  {
+    "idplant": "P00211",
+    "idcrude": "S00258"
+  },
+  {
+    "idplant": "P00212",
+    "idcrude": "S00259"
+  },
+  {
+    "idplant": "P00213",
+    "idcrude": "T00032"
+  },
+  {
+    "idplant": "P00214",
+    "idcrude": "S00260"
+  },
+  {
+    "idplant": "P00214",
+    "idcrude": "S00261"
+  },
+  {
+    "idplant": "P00214",
+    "idcrude": "T00119"
+  },
+  {
+    "idplant": "P00214",
+    "idcrude": "T00128"
+  },
+  {
+    "idplant": "P00215",
+    "idcrude": "S00262"
+  },
+  {
+    "idplant": "P00215",
+    "idcrude": "S00263"
+  },
+  {
+    "idplant": "P00215",
+    "idcrude": "S00264"
+  },
+  {
+    "idplant": "P00216",
+    "idcrude": "T00119"
+  },
+  {
+    "idplant": "P00216",
+    "idcrude": "T00128"
+  },
+  {
+    "idplant": "P00217",
+    "idcrude": "S00265"
+  },
+  {
+    "idplant": "P00217",
+    "idcrude": "S00266"
+  },
+  {
+    "idplant": "P00217",
+    "idcrude": "S00267"
+  },
+  {
+    "idplant": "P00218",
+    "idcrude": "S00268"
+  },
+  {
+    "idplant": "P00219",
+    "idcrude": "S00269"
+  },
+  {
+    "idplant": "P00220",
+    "idcrude": "S00270"
+  },
+  {
+    "idplant": "P00220",
+    "idcrude": "T00006"
+  },
+  {
+    "idplant": "P00221",
+    "idcrude": "T00006"
+  },
+  {
+    "idplant": "P00222",
+    "idcrude": "T00006"
+  },
+  {
+    "idplant": "P00223",
+    "idcrude": "S00271"
+  },
+  {
+    "idplant": "P00224",
+    "idcrude": "S00272"
+  },
+  {
+    "idplant": "P00225",
+    "idcrude": "S00273"
+  },
+  {
+    "idplant": "P00226",
+    "idcrude": "S00274"
+  },
+  {
+    "idplant": "P00227",
+    "idcrude": "S00275"
+  },
+  {
+    "idplant": "P00228",
+    "idcrude": "S00276"
+  },
+  {
+    "idplant": "P00228",
+    "idcrude": "T00087"
+  },
+  {
+    "idplant": "P00229",
+    "idcrude": "T00103"
+  },
+  {
+    "idplant": "P00230",
+    "idcrude": "S00277"
+  },
+  {
+    "idplant": "P00230",
+    "idcrude": "S00278"
+  },
+  {
+    "idplant": "P00230",
+    "idcrude": "S00279"
+  },
+  {
+    "idplant": "P00231",
+    "idcrude": "S00280"
+  },
+  {
+    "idplant": "P00232",
+    "idcrude": "S00281"
+  },
+  {
+    "idplant": "P00233",
+    "idcrude": "S00282"
+  },
+  {
+    "idplant": "P00233",
+    "idcrude": "T00196"
+  },
+  {
+    "idplant": "P00234",
+    "idcrude": "S00283"
+  },
+  {
+    "idplant": "P00235",
+    "idcrude": "S00284"
+  },
+  {
+    "idplant": "P00236",
+    "idcrude": "S00285"
+  },
+  {
+    "idplant": "P00237",
+    "idcrude": "S00286"
+  },
+  {
+    "idplant": "P00238",
+    "idcrude": "S00287"
+  },
+  {
+    "idplant": "P00238",
+    "idcrude": "S00288"
+  },
+  {
+    "idplant": "P00238",
+    "idcrude": "S00289"
+  },
+  {
+    "idplant": "P00239",
+    "idcrude": "S00290"
+  },
+  {
+    "idplant": "P00240",
+    "idcrude": "S00291"
+  },
+  {
+    "idplant": "P00241",
+    "idcrude": "S00292"
+  },
+  {
+    "idplant": "P00242",
+    "idcrude": "S00293"
+  },
+  {
+    "idplant": "P00243",
+    "idcrude": "S00294"
+  },
+  {
+    "idplant": "P00243",
+    "idcrude": "T00020"
+  },
+  {
+    "idplant": "P00244",
+    "idcrude": "T00020"
+  },
+  {
+    "idplant": "P00245",
+    "idcrude": "T00020"
+  },
+  {
+    "idplant": "P00246",
+    "idcrude": "S00295"
+  },
+  {
+    "idplant": "P00247",
+    "idcrude": "S00296"
+  },
+  {
+    "idplant": "P00247",
+    "idcrude": "S00297"
+  },
+  {
+    "idplant": "P00248",
+    "idcrude": "T00070"
+  },
+  {
+    "idplant": "P00248",
+    "idcrude": "T00209"
+  },
+  {
+    "idplant": "P00249",
+    "idcrude": "T00014"
+  },
+  {
+    "idplant": "P00250",
+    "idcrude": "S00298"
+  },
+  {
+    "idplant": "P00250",
+    "idcrude": "S00299"
+  },
+  {
+    "idplant": "P00251",
+    "idcrude": "S00300"
+  },
+  {
+    "idplant": "P00251",
+    "idcrude": "S00301"
+  },
+  {
+    "idplant": "P00252",
+    "idcrude": "S00302"
+  },
+  {
+    "idplant": "P00253",
+    "idcrude": "S00303"
+  },
+  {
+    "idplant": "P00254",
+    "idcrude": "T00068"
+  },
+  {
+    "idplant": "P00254",
+    "idcrude": "T00262"
+  },
+  {
+    "idplant": "P00255",
+    "idcrude": "S00304"
+  },
+  {
+    "idplant": "P00255",
+    "idcrude": "T00068"
+  },
+  {
+    "idplant": "P00255",
+    "idcrude": "T00262"
+  },
+  {
+    "idplant": "P00256",
+    "idcrude": "S00305"
+  },
+  {
+    "idplant": "P00257",
+    "idcrude": "S00306"
+  },
+  {
+    "idplant": "P00258",
+    "idcrude": "S00307"
+  },
+  {
+    "idplant": "P00259",
+    "idcrude": "S00308"
+  },
+  {
+    "idplant": "P00260",
+    "idcrude": "T00106"
+  },
+  {
+    "idplant": "P00261",
+    "idcrude": "S00309"
+  },
+  {
+    "idplant": "P00262",
+    "idcrude": "S00310"
+  },
+  {
+    "idplant": "P00263",
+    "idcrude": "S00311"
+  },
+  {
+    "idplant": "P00263",
+    "idcrude": "S00312"
+  },
+  {
+    "idplant": "P00264",
+    "idcrude": "S00313"
+  },
+  {
+    "idplant": "P00265",
+    "idcrude": "S00314"
+  },
+  {
+    "idplant": "P00265",
+    "idcrude": "S00315"
+  },
+  {
+    "idplant": "P00266",
+    "idcrude": "S00316"
+  },
+  {
+    "idplant": "P00267",
+    "idcrude": "S00317"
+  },
+  {
+    "idplant": "P00268",
+    "idcrude": "S00318"
+  },
+  {
+    "idplant": "P00269",
+    "idcrude": "S00319"
+  },
+  {
+    "idplant": "P00270",
+    "idcrude": "S00320"
+  },
+  {
+    "idplant": "P00270",
+    "idcrude": "T00008"
+  },
+  {
+    "idplant": "P00270",
+    "idcrude": "T00250"
+  },
+  {
+    "idplant": "P00271",
+    "idcrude": "S00321"
+  },
+  {
+    "idplant": "P00272",
+    "idcrude": "S00322"
+  },
+  {
+    "idplant": "P00273",
+    "idcrude": "S00323"
+  },
+  {
+    "idplant": "P00274",
+    "idcrude": "S00324"
+  },
+  {
+    "idplant": "P00275",
+    "idcrude": "S00325"
+  },
+  {
+    "idplant": "P00276",
+    "idcrude": "S00326"
+  },
+  {
+    "idplant": "P00276",
+    "idcrude": "T00027"
+  },
+  {
+    "idplant": "P00277",
+    "idcrude": "S00327"
+  },
+  {
+    "idplant": "P00278",
+    "idcrude": "S00328"
+  },
+  {
+    "idplant": "P00279",
+    "idcrude": "S00329"
+  },
+  {
+    "idplant": "P00280",
+    "idcrude": "S00330"
+  },
+  {
+    "idplant": "P00280",
+    "idcrude": "S00331"
+  },
+  {
+    "idplant": "P00280",
+    "idcrude": "S00332"
+  },
+  {
+    "idplant": "P00281",
+    "idcrude": "S00333"
+  },
+  {
+    "idplant": "P00281",
+    "idcrude": "S00334"
+  },
+  {
+    "idplant": "P00281",
+    "idcrude": "S00335"
+  },
+  {
+    "idplant": "P00282",
+    "idcrude": "S00336"
+  },
+  {
+    "idplant": "P00282",
+    "idcrude": "S00337"
+  },
+  {
+    "idplant": "P00283",
+    "idcrude": "S00338"
+  },
+  {
+    "idplant": "P00284",
+    "idcrude": "S00339"
+  },
+  {
+    "idplant": "P00285",
+    "idcrude": "S00340"
+  },
+  {
+    "idplant": "P00285",
+    "idcrude": "S00341"
+  },
+  {
+    "idplant": "P00285",
+    "idcrude": "S00342"
+  },
+  {
+    "idplant": "P00285",
+    "idcrude": "S00343"
+  },
+  {
+    "idplant": "P00285",
+    "idcrude": "S00344"
+  },
+  {
+    "idplant": "P00285",
+    "idcrude": "T00055"
+  },
+  {
+    "idplant": "P00285",
+    "idcrude": "T00204"
+  },
+  {
+    "idplant": "P00286",
+    "idcrude": "S00345"
+  },
+  {
+    "idplant": "P00286",
+    "idcrude": "S00346"
+  },
+  {
+    "idplant": "P00287",
+    "idcrude": "S00347"
+  },
+  {
+    "idplant": "P00288",
+    "idcrude": "S00348"
+  },
+  {
+    "idplant": "P00289",
+    "idcrude": "S00349"
+  },
+  {
+    "idplant": "P00290",
+    "idcrude": "S00351"
+  },
+  {
+    "idplant": "P00291",
+    "idcrude": "S00352"
+  },
+  {
+    "idplant": "P00292",
+    "idcrude": "S00353"
+  },
+  {
+    "idplant": "P00293",
+    "idcrude": "S00354"
+  },
+  {
+    "idplant": "P00294",
+    "idcrude": "T00022"
+  },
+  {
+    "idplant": "P00294",
+    "idcrude": "T00248"
+  },
+  {
+    "idplant": "P00295",
+    "idcrude": "S00355"
+  },
+  {
+    "idplant": "P00295",
+    "idcrude": "S00356"
+  },
+  {
+    "idplant": "P00295",
+    "idcrude": "S00357"
+  },
+  {
+    "idplant": "P00295",
+    "idcrude": "S00358"
+  },
+  {
+    "idplant": "P00296",
+    "idcrude": "T00073"
+  },
+  {
+    "idplant": "P00296",
+    "idcrude": "T00211"
+  },
+  {
+    "idplant": "P00297",
+    "idcrude": "S00359"
+  },
+  {
+    "idplant": "P00297",
+    "idcrude": "S00360"
+  },
+  {
+    "idplant": "P00298",
+    "idcrude": "S00361"
+  },
+  {
+    "idplant": "P00299",
+    "idcrude": "T00082"
+  },
+  {
+    "idplant": "P00300",
+    "idcrude": "S00362"
+  },
+  {
+    "idplant": "P00301",
+    "idcrude": "T00163"
+  },
+  {
+    "idplant": "P00301",
+    "idcrude": "T00230"
+  },
+  {
+    "idplant": "P00302",
+    "idcrude": "S00363"
+  },
+  {
+    "idplant": "P00303",
+    "idcrude": "S00364"
+  },
+  {
+    "idplant": "P00303",
+    "idcrude": "S00365"
+  },
+  {
+    "idplant": "P00303",
+    "idcrude": "S00366"
+  },
+  {
+    "idplant": "P00304",
+    "idcrude": "S00367"
+  },
+  {
+    "idplant": "P00304",
+    "idcrude": "S00368"
+  },
+  {
+    "idplant": "P00305",
+    "idcrude": "S00369"
+  },
+  {
+    "idplant": "P00305",
+    "idcrude": "S00370"
+  },
+  {
+    "idplant": "P00306",
+    "idcrude": "S00371"
+  },
+  {
+    "idplant": "P00306",
+    "idcrude": "S00372"
+  },
+  {
+    "idplant": "P00307",
+    "idcrude": "S00374"
+  },
+  {
+    "idplant": "P00308",
+    "idcrude": "S00375"
+  },
+  {
+    "idplant": "P00308",
+    "idcrude": "S00376"
+  },
+  {
+    "idplant": "P00309",
+    "idcrude": "S00377"
+  },
+  {
+    "idplant": "P00309",
+    "idcrude": "S00378"
+  },
+  {
+    "idplant": "P00309",
+    "idcrude": "S00379"
+  },
+  {
+    "idplant": "P00309",
+    "idcrude": "S00380"
+  },
+  {
+    "idplant": "P00310",
+    "idcrude": "S00381"
+  },
+  {
+    "idplant": "P00311",
+    "idcrude": "S00382"
+  },
+  {
+    "idplant": "P00312",
+    "idcrude": "S00383"
+  },
+  {
+    "idplant": "P00313",
+    "idcrude": "S00384"
+  },
+  {
+    "idplant": "P00314",
+    "idcrude": "S00385"
+  },
+  {
+    "idplant": "P00315",
+    "idcrude": "S00386"
+  },
+  {
+    "idplant": "P00316",
+    "idcrude": "T00171"
+  },
+  {
+    "idplant": "P00317",
+    "idcrude": "T00171"
+  },
+  {
+    "idplant": "P00318",
+    "idcrude": "S00387"
+  },
+  {
+    "idplant": "P00319",
+    "idcrude": "S00388"
+  },
+  {
+    "idplant": "P00320",
+    "idcrude": "S00389"
+  },
+  {
+    "idplant": "P00321",
+    "idcrude": "S00390"
+  },
+  {
+    "idplant": "P00322",
+    "idcrude": "T00001"
+  },
+  {
+    "idplant": "P00323",
+    "idcrude": "S00391"
+  },
+  {
+    "idplant": "P00323",
+    "idcrude": "T00159"
+  },
+  {
+    "idplant": "P00324",
+    "idcrude": "S00392"
+  },
+  {
+    "idplant": "P00325",
+    "idcrude": "S00393"
+  },
+  {
+    "idplant": "P00326",
+    "idcrude": "S00394"
+  },
+  {
+    "idplant": "P00327",
+    "idcrude": "S00395"
+  },
+  {
+    "idplant": "P00327",
+    "idcrude": "S00396"
+  },
+  {
+    "idplant": "P00327",
+    "idcrude": "S00397"
+  },
+  {
+    "idplant": "P00328",
+    "idcrude": "S00398"
+  },
+  {
+    "idplant": "P00329",
+    "idcrude": "S00399"
+  },
+  {
+    "idplant": "P00330",
+    "idcrude": "S00400"
+  },
+  {
+    "idplant": "P00330",
+    "idcrude": "S00401"
+  },
+  {
+    "idplant": "P00331",
+    "idcrude": "S00402"
+  },
+  {
+    "idplant": "P00331",
+    "idcrude": "S00403"
+  },
+  {
+    "idplant": "P00331",
+    "idcrude": "T00136"
+  },
+  {
+    "idplant": "P00332",
+    "idcrude": "S00404"
+  },
+  {
+    "idplant": "P00332",
+    "idcrude": "S00405"
+  },
+  {
+    "idplant": "P00332",
+    "idcrude": "S00406"
+  },
+  {
+    "idplant": "P00332",
+    "idcrude": "S00407"
+  },
+  {
+    "idplant": "P00333",
+    "idcrude": "S00408"
+  },
+  {
+    "idplant": "P00333",
+    "idcrude": "T00123"
+  },
+  {
+    "idplant": "P00333",
+    "idcrude": "T00124"
+  },
+  {
+    "idplant": "P00334",
+    "idcrude": "S00409"
+  },
+  {
+    "idplant": "P00334",
+    "idcrude": "S00410"
+  },
+  {
+    "idplant": "P00334",
+    "idcrude": "S00411"
+  },
+  {
+    "idplant": "P00335",
+    "idcrude": "S00412"
+  },
+  {
+    "idplant": "P00336",
+    "idcrude": "S00413"
+  },
+  {
+    "idplant": "P00337",
+    "idcrude": "S00414"
+  },
+  {
+    "idplant": "P00337",
+    "idcrude": "S00415"
+  },
+  {
+    "idplant": "P00338",
+    "idcrude": "S00416"
+  },
+  {
+    "idplant": "P00339",
+    "idcrude": "T00040"
+  },
+  {
+    "idplant": "P00340",
+    "idcrude": "S00417"
+  },
+  {
+    "idplant": "P00341",
+    "idcrude": "S00418"
+  },
+  {
+    "idplant": "P00342",
+    "idcrude": "T00181"
+  },
+  {
+    "idplant": "P00343",
+    "idcrude": "S00419"
+  },
+  {
+    "idplant": "P00344",
+    "idcrude": "S00420"
+  },
+  {
+    "idplant": "P00345",
+    "idcrude": "S00421"
+  },
+  {
+    "idplant": "P00346",
+    "idcrude": "S00422"
+  },
+  {
+    "idplant": "P00347",
+    "idcrude": "S00423"
+  },
+  {
+    "idplant": "P00348",
+    "idcrude": "S00424"
+  },
+  {
+    "idplant": "P00348",
+    "idcrude": "S00425"
+  },
+  {
+    "idplant": "P00348",
+    "idcrude": "S00426"
+  },
+  {
+    "idplant": "P00349",
+    "idcrude": "S00427"
+  },
+  {
+    "idplant": "P00350",
+    "idcrude": "S00428"
+  },
+  {
+    "idplant": "P00351",
+    "idcrude": "S00429"
+  },
+  {
+    "idplant": "P00351",
+    "idcrude": "S00430"
+  },
+  {
+    "idplant": "P00351",
+    "idcrude": "S00431"
+  },
+  {
+    "idplant": "P00351",
+    "idcrude": "T00007"
+  },
+  {
+    "idplant": "P00352",
+    "idcrude": "S00432"
+  },
+  {
+    "idplant": "P00352",
+    "idcrude": "T00185"
+  },
+  {
+    "idplant": "P00353",
+    "idcrude": "T00185"
+  },
+  {
+    "idplant": "P00354",
+    "idcrude": "T00182"
+  },
+  {
+    "idplant": "P00355",
+    "idcrude": "S00433"
+  },
+  {
+    "idplant": "P00356",
+    "idcrude": "S00434"
+  },
+  {
+    "idplant": "P00357",
+    "idcrude": "S00435"
+  },
+  {
+    "idplant": "P00358",
+    "idcrude": "T00146"
+  },
+  {
+    "idplant": "P00359",
+    "idcrude": "S00436"
+  },
+  {
+    "idplant": "P00359",
+    "idcrude": "S00437"
+  },
+  {
+    "idplant": "P00360",
+    "idcrude": "S00438"
+  },
+  {
+    "idplant": "P00360",
+    "idcrude": "S00439"
+  },
+  {
+    "idplant": "P00361",
+    "idcrude": "T00050"
+  },
+  {
+    "idplant": "P00361",
+    "idcrude": "T00197"
+  },
+  {
+    "idplant": "P00361",
+    "idcrude": "T00237"
+  },
+  {
+    "idplant": "P00362",
+    "idcrude": "S00440"
+  },
+  {
+    "idplant": "P00363",
+    "idcrude": "S00441"
+  },
+  {
+    "idplant": "P00364",
+    "idcrude": "S00442"
+  },
+  {
+    "idplant": "P00365",
+    "idcrude": "S00443"
+  },
+  {
+    "idplant": "P00365",
+    "idcrude": "S00444"
+  },
+  {
+    "idplant": "P00365",
+    "idcrude": "S00445"
+  },
+  {
+    "idplant": "P00366",
+    "idcrude": "S00446"
+  },
+  {
+    "idplant": "P00366",
+    "idcrude": "S00447"
+  },
+  {
+    "idplant": "P00367",
+    "idcrude": "S00448"
+  },
+  {
+    "idplant": "P00367",
+    "idcrude": "S00449"
+  },
+  {
+    "idplant": "P00367",
+    "idcrude": "T00069"
+  },
+  {
+    "idplant": "P00367",
+    "idcrude": "T00227"
+  },
+  {
+    "idplant": "P00367",
+    "idcrude": "T00229"
+  },
+  {
+    "idplant": "P00368",
+    "idcrude": "S00450"
+  },
+  {
+    "idplant": "P00369",
+    "idcrude": "S00451"
+  },
+  {
+    "idplant": "P00369",
+    "idcrude": "S00452"
+  },
+  {
+    "idplant": "P00369",
+    "idcrude": "T00130"
+  },
+  {
+    "idplant": "P00370",
+    "idcrude": "S00453"
+  },
+  {
+    "idplant": "P00370",
+    "idcrude": "S00454"
+  },
+  {
+    "idplant": "P00371",
+    "idcrude": "S00455"
+  },
+  {
+    "idplant": "P00372",
+    "idcrude": "S00456"
+  },
+  {
+    "idplant": "P00373",
+    "idcrude": "S00457"
+  },
+  {
+    "idplant": "P00374",
+    "idcrude": "S00458"
+  },
+  {
+    "idplant": "P00375",
+    "idcrude": "T00187"
+  },
+  {
+    "idplant": "P00376",
+    "idcrude": "T00187"
+  },
+  {
+    "idplant": "P00377",
+    "idcrude": "S00459"
+  },
+  {
+    "idplant": "P00378",
+    "idcrude": "S00460"
+  },
+  {
+    "idplant": "P00378",
+    "idcrude": "T00187"
+  },
+  {
+    "idplant": "P00379",
+    "idcrude": "T00183"
+  },
+  {
+    "idplant": "P00380",
+    "idcrude": "S00461"
+  },
+  {
+    "idplant": "P00380",
+    "idcrude": "T00183"
+  },
+  {
+    "idplant": "P00381",
+    "idcrude": "T00187"
+  },
+  {
+    "idplant": "P00382",
+    "idcrude": "T00183"
+  },
+  {
+    "idplant": "P00383",
+    "idcrude": "S00462"
+  },
+  {
+    "idplant": "P00383",
+    "idcrude": "S00463"
+  },
+  {
+    "idplant": "P00384",
+    "idcrude": "S00464"
+  },
+  {
+    "idplant": "P00385",
+    "idcrude": "S00465"
+  },
+  {
+    "idplant": "P00386",
+    "idcrude": "S00466"
+  },
+  {
+    "idplant": "P00387",
+    "idcrude": "S00467"
+  },
+  {
+    "idplant": "P00387",
+    "idcrude": "S00468"
+  },
+  {
+    "idplant": "P00387",
+    "idcrude": "S00469"
+  },
+  {
+    "idplant": "P00387",
+    "idcrude": "S00470"
+  },
+  {
+    "idplant": "P00387",
+    "idcrude": "S00471"
+  },
+  {
+    "idplant": "P00388",
+    "idcrude": "S00472"
+  },
+  {
+    "idplant": "P00388",
+    "idcrude": "T00039"
+  },
+  {
+    "idplant": "P00388",
+    "idcrude": "T00084"
+  },
+  {
+    "idplant": "P00388",
+    "idcrude": "T00200"
+  },
+  {
+    "idplant": "P00389",
+    "idcrude": "S00474"
+  },
+  {
+    "idplant": "P00390",
+    "idcrude": "S00475"
+  },
+  {
+    "idplant": "P00391",
+    "idcrude": "S00476"
+  },
+  {
+    "idplant": "P00391",
+    "idcrude": "S00477"
+  },
+  {
+    "idplant": "P00392",
+    "idcrude": "S00478"
+  },
+  {
+    "idplant": "P00393",
+    "idcrude": "S00480"
+  },
+  {
+    "idplant": "P00394",
+    "idcrude": "S00481"
+  },
+  {
+    "idplant": "P00395",
+    "idcrude": "S00482"
+  },
+  {
+    "idplant": "P00396",
+    "idcrude": "S00483"
+  },
+  {
+    "idplant": "P00396",
+    "idcrude": "S00484"
+  },
+  {
+    "idplant": "P00396",
+    "idcrude": "S00485"
+  },
+  {
+    "idplant": "P00397",
+    "idcrude": "S00489"
+  },
+  {
+    "idplant": "P00398",
+    "idcrude": "S00490"
+  },
+  {
+    "idplant": "P00399",
+    "idcrude": "S00491"
+  },
+  {
+    "idplant": "P00400",
+    "idcrude": "S00492"
+  },
+  {
+    "idplant": "P00400",
+    "idcrude": "S00493"
+  },
+  {
+    "idplant": "P00400",
+    "idcrude": "S00494"
+  },
+  {
+    "idplant": "P00400",
+    "idcrude": "S00495"
+  },
+  {
+    "idplant": "P00400",
+    "idcrude": "S00496"
+  },
+  {
+    "idplant": "P00401",
+    "idcrude": "S00497"
+  },
+  {
+    "idplant": "P00401",
+    "idcrude": "S00498"
+  },
+  {
+    "idplant": "P00402",
+    "idcrude": "S00499"
+  },
+  {
+    "idplant": "P00402",
+    "idcrude": "S00500"
+  },
+  {
+    "idplant": "P00402",
+    "idcrude": "S00501"
+  },
+  {
+    "idplant": "P00403",
+    "idcrude": "T00102"
+  },
+  {
+    "idplant": "P00404",
+    "idcrude": "S00503"
+  },
+  {
+    "idplant": "P00404",
+    "idcrude": "S00504"
+  },
+  {
+    "idplant": "P00405",
+    "idcrude": "S00505"
+  },
+  {
+    "idplant": "P00406",
+    "idcrude": "S00506"
+  },
+  {
+    "idplant": "P00407",
+    "idcrude": "S00507"
+  },
+  {
+    "idplant": "P00408",
+    "idcrude": "S00508"
+  },
+  {
+    "idplant": "P00408",
+    "idcrude": "S00509"
+  },
+  {
+    "idplant": "P00409",
+    "idcrude": "S00510"
+  },
+  {
+    "idplant": "P00410",
+    "idcrude": "S00511"
+  },
+  {
+    "idplant": "P00411",
+    "idcrude": "S00512"
+  },
+  {
+    "idplant": "P00411",
+    "idcrude": "S00513"
+  },
+  {
+    "idplant": "P00412",
+    "idcrude": "S00515"
+  },
+  {
+    "idplant": "P00413",
+    "idcrude": "S00516"
+  },
+  {
+    "idplant": "P00414",
+    "idcrude": "S00517"
+  },
+  {
+    "idplant": "P00414",
+    "idcrude": "S00518"
+  },
+  {
+    "idplant": "P00415",
+    "idcrude": "S00519"
+  },
+  {
+    "idplant": "P00416",
+    "idcrude": "S00520"
+  },
+  {
+    "idplant": "P00417",
+    "idcrude": "S00521"
+  },
+  {
+    "idplant": "P00418",
+    "idcrude": "S00522"
+  },
+  {
+    "idplant": "P00419",
+    "idcrude": "S00523"
+  },
+  {
+    "idplant": "P00419",
+    "idcrude": "T00147"
+  },
+  {
+    "idplant": "P00420",
+    "idcrude": "T00089"
+  },
+  {
+    "idplant": "P00420",
+    "idcrude": "T00224"
+  },
+  {
+    "idplant": "P00421",
+    "idcrude": "S00524"
+  },
+  {
+    "idplant": "P00422",
+    "idcrude": "S00526"
+  },
+  {
+    "idplant": "P00423",
+    "idcrude": "S00527"
+  },
+  {
+    "idplant": "P00424",
+    "idcrude": "S00529"
+  },
+  {
+    "idplant": "P00425",
+    "idcrude": "S00530"
+  },
+  {
+    "idplant": "P00426",
+    "idcrude": "S00531"
+  },
+  {
+    "idplant": "P00427",
+    "idcrude": "S00532"
+  },
+  {
+    "idplant": "P00428",
+    "idcrude": "S00533"
+  },
+  {
+    "idplant": "P00429",
+    "idcrude": "S00534"
+  },
+  {
+    "idplant": "P00429",
+    "idcrude": "S00535"
+  },
+  {
+    "idplant": "P00429",
+    "idcrude": "S00536"
+  },
+  {
+    "idplant": "P00429",
+    "idcrude": "S00537"
+  },
+  {
+    "idplant": "P00430",
+    "idcrude": "S00538"
+  },
+  {
+    "idplant": "P00431",
+    "idcrude": "S00540"
+  },
+  {
+    "idplant": "P00431",
+    "idcrude": "S00541"
+  },
+  {
+    "idplant": "P00431",
+    "idcrude": "S00542"
+  },
+  {
+    "idplant": "P00432",
+    "idcrude": "S00543"
+  },
+  {
+    "idplant": "P00433",
+    "idcrude": "S00545"
+  },
+  {
+    "idplant": "P00434",
+    "idcrude": "S00546"
+  },
+  {
+    "idplant": "P00435",
+    "idcrude": "S00547"
+  },
+  {
+    "idplant": "P00435",
+    "idcrude": "S00548"
+  },
+  {
+    "idplant": "P00435",
+    "idcrude": "S00549"
+  },
+  {
+    "idplant": "P00435",
+    "idcrude": "S00550"
+  },
+  {
+    "idplant": "P00435",
+    "idcrude": "S00551"
+  },
+  {
+    "idplant": "P00436",
+    "idcrude": "S00552"
+  },
+  {
+    "idplant": "P00436",
+    "idcrude": "S00553"
+  },
+  {
+    "idplant": "P00437",
+    "idcrude": "S00554"
+  },
+  {
+    "idplant": "P00438",
+    "idcrude": "S00555"
+  },
+  {
+    "idplant": "P00438",
+    "idcrude": "T00134"
+  },
+  {
+    "idplant": "P00438",
+    "idcrude": "T00246"
+  },
+  {
+    "idplant": "P00438",
+    "idcrude": "T00247"
+  },
+  {
+    "idplant": "P00439",
+    "idcrude": "S00556"
+  },
+  {
+    "idplant": "P00440",
+    "idcrude": "S00557"
+  },
+  {
+    "idplant": "P00441",
+    "idcrude": "S00558"
+  },
+  {
+    "idplant": "P00442",
+    "idcrude": "S00559"
+  },
+  {
+    "idplant": "P00443",
+    "idcrude": "S00560"
+  },
+  {
+    "idplant": "P00444",
+    "idcrude": "S00561"
+  },
+  {
+    "idplant": "P00444",
+    "idcrude": "S00562"
+  },
+  {
+    "idplant": "P00445",
+    "idcrude": "S00563"
+  },
+  {
+    "idplant": "P00446",
+    "idcrude": "S00564"
+  },
+  {
+    "idplant": "P00447",
+    "idcrude": "S00565"
+  },
+  {
+    "idplant": "P00448",
+    "idcrude": "S00568"
+  },
+  {
+    "idplant": "P00449",
+    "idcrude": "S00569"
+  },
+  {
+    "idplant": "P00450",
+    "idcrude": "S00570"
+  },
+  {
+    "idplant": "P00451",
+    "idcrude": "S00571"
+  },
+  {
+    "idplant": "P00452",
+    "idcrude": "S00572"
+  },
+  {
+    "idplant": "P00453",
+    "idcrude": "S00573"
+  },
+  {
+    "idplant": "P00454",
+    "idcrude": "S00574"
+  },
+  {
+    "idplant": "P00455",
+    "idcrude": "S00575"
+  },
+  {
+    "idplant": "P00456",
+    "idcrude": "S00576"
+  },
+  {
+    "idplant": "P00457",
+    "idcrude": "S00577"
+  },
+  {
+    "idplant": "P00458",
+    "idcrude": "S00578"
+  },
+  {
+    "idplant": "P00459",
+    "idcrude": "S00579"
+  },
+  {
+    "idplant": "P00460",
+    "idcrude": "T00177"
+  },
+  {
+    "idplant": "P00461",
+    "idcrude": "S00581"
+  },
+  {
+    "idplant": "P00462",
+    "idcrude": "S00582"
+  },
+  {
+    "idplant": "P00463",
+    "idcrude": "S00583"
+  },
+  {
+    "idplant": "P00464",
+    "idcrude": "S00584"
+  },
+  {
+    "idplant": "P00465",
+    "idcrude": "S00585"
+  },
+  {
+    "idplant": "P00466",
+    "idcrude": "S00586"
+  },
+  {
+    "idplant": "P00466",
+    "idcrude": "S00587"
+  },
+  {
+    "idplant": "P00467",
+    "idcrude": "S00588"
+  },
+  {
+    "idplant": "P00468",
+    "idcrude": "S00589"
+  },
+  {
+    "idplant": "P00468",
+    "idcrude": "S00590"
+  },
+  {
+    "idplant": "P00468",
+    "idcrude": "S00591"
+  },
+  {
+    "idplant": "P00469",
+    "idcrude": "S00592"
+  },
+  {
+    "idplant": "P00469",
+    "idcrude": "S00593"
+  },
+  {
+    "idplant": "P00470",
+    "idcrude": "S00594"
+  },
+  {
+    "idplant": "P00470",
+    "idcrude": "T00191"
+  },
+  {
+    "idplant": "P00470",
+    "idcrude": "T00240"
+  },
+  {
+    "idplant": "P00471",
+    "idcrude": "S00595"
+  },
+  {
+    "idplant": "P00472",
+    "idcrude": "S00596"
+  },
+  {
+    "idplant": "P00473",
+    "idcrude": "S00597"
+  },
+  {
+    "idplant": "P00474",
+    "idcrude": "S00598"
+  },
+  {
+    "idplant": "P00475",
+    "idcrude": "S00599"
+  },
+  {
+    "idplant": "P00475",
+    "idcrude": "T00011"
+  },
+  {
+    "idplant": "P00476",
+    "idcrude": "S00600"
+  },
+  {
+    "idplant": "P00477",
+    "idcrude": "S00601"
+  },
+  {
+    "idplant": "P00478",
+    "idcrude": "S00602"
+  },
+  {
+    "idplant": "P00478",
+    "idcrude": "T00078"
+  },
+  {
+    "idplant": "P00479",
+    "idcrude": "S00603"
+  },
+  {
+    "idplant": "P00480",
+    "idcrude": "S00604"
+  },
+  {
+    "idplant": "P00480",
+    "idcrude": "S00605"
+  },
+  {
+    "idplant": "P00480",
+    "idcrude": "S00606"
+  },
+  {
+    "idplant": "P00480",
+    "idcrude": "S00607"
+  },
+  {
+    "idplant": "P00481",
+    "idcrude": "S00608"
+  },
+  {
+    "idplant": "P00481",
+    "idcrude": "S00609"
+  },
+  {
+    "idplant": "P00482",
+    "idcrude": "S00610"
+  },
+  {
+    "idplant": "P00482",
+    "idcrude": "T00047"
+  },
+  {
+    "idplant": "P00482",
+    "idcrude": "T00144"
+  },
+  {
+    "idplant": "P00483",
+    "idcrude": "S00611"
+  },
+  {
+    "idplant": "P00484",
+    "idcrude": "S00612"
+  },
+  {
+    "idplant": "P00484",
+    "idcrude": "S00613"
+  },
+  {
+    "idplant": "P00485",
+    "idcrude": "S00615"
+  },
+  {
+    "idplant": "P00485",
+    "idcrude": "S00616"
+  },
+  {
+    "idplant": "P00485",
+    "idcrude": "T00077"
+  },
+  {
+    "idplant": "P00486",
+    "idcrude": "S00617"
+  },
+  {
+    "idplant": "P00486",
+    "idcrude": "T00077"
+  },
+  {
+    "idplant": "P00487",
+    "idcrude": "S00618"
+  },
+  {
+    "idplant": "P00488",
+    "idcrude": "S00619"
+  },
+  {
+    "idplant": "P00489",
+    "idcrude": "S00620"
+  },
+  {
+    "idplant": "P00490",
+    "idcrude": "S00621"
+  },
+  {
+    "idplant": "P00491",
+    "idcrude": "S00622"
+  },
+  {
+    "idplant": "P00492",
+    "idcrude": "T00096"
+  },
+  {
+    "idplant": "P00493",
+    "idcrude": "T00096"
+  },
+  {
+    "idplant": "P00494",
+    "idcrude": "T00096"
+  },
+  {
+    "idplant": "P00495",
+    "idcrude": "T00056"
+  },
+  {
+    "idplant": "P00496",
+    "idcrude": "S00623"
+  },
+  {
+    "idplant": "P00496",
+    "idcrude": "T00056"
+  },
+  {
+    "idplant": "P00497",
+    "idcrude": "T00096"
+  },
+  {
+    "idplant": "P00498",
+    "idcrude": "T00096"
+  },
+  {
+    "idplant": "P00499",
+    "idcrude": "S00625"
+  },
+  {
+    "idplant": "P00500",
+    "idcrude": "S00626"
+  },
+  {
+    "idplant": "P00501",
+    "idcrude": "S00627"
+  },
+  {
+    "idplant": "P00502",
+    "idcrude": "S00628"
+  },
+  {
+    "idplant": "P00502",
+    "idcrude": "S00629"
+  },
+  {
+    "idplant": "P00503",
+    "idcrude": "S00631"
+  },
+  {
+    "idplant": "P00503",
+    "idcrude": "S00632"
+  },
+  {
+    "idplant": "P00504",
+    "idcrude": "S00633"
+  },
+  {
+    "idplant": "P00505",
+    "idcrude": "S00634"
+  },
+  {
+    "idplant": "P00505",
+    "idcrude": "S00635"
+  },
+  {
+    "idplant": "P00505",
+    "idcrude": "S00636"
+  },
+  {
+    "idplant": "P00505",
+    "idcrude": "S00637"
+  },
+  {
+    "idplant": "P00506",
+    "idcrude": "S00638"
+  },
+  {
+    "idplant": "P00506",
+    "idcrude": "S00639"
+  },
+  {
+    "idplant": "P00507",
+    "idcrude": "S00640"
+  },
+  {
+    "idplant": "P00508",
+    "idcrude": "S00641"
+  },
+  {
+    "idplant": "P00508",
+    "idcrude": "S00642"
+  },
+  {
+    "idplant": "P00508",
+    "idcrude": "S00643"
+  },
+  {
+    "idplant": "P00509",
+    "idcrude": "S00644"
+  },
+  {
+    "idplant": "P00509",
+    "idcrude": "S00645"
+  },
+  {
+    "idplant": "P00509",
+    "idcrude": "S00646"
+  },
+  {
+    "idplant": "P00510",
+    "idcrude": "S00647"
+  },
+  {
+    "idplant": "P00511",
+    "idcrude": "S00648"
+  },
+  {
+    "idplant": "P00512",
+    "idcrude": "S00649"
+  },
+  {
+    "idplant": "P00513",
+    "idcrude": "S00650"
+  },
+  {
+    "idplant": "P00514",
+    "idcrude": "S00651"
+  },
+  {
+    "idplant": "P00514",
+    "idcrude": "S00652"
+  },
+  {
+    "idplant": "P00514",
+    "idcrude": "S00653"
+  },
+  {
+    "idplant": "P00514",
+    "idcrude": "T00156"
+  },
+  {
+    "idplant": "P00514",
+    "idcrude": "T00193"
+  },
+  {
+    "idplant": "P00515",
+    "idcrude": "S00654"
+  },
+  {
+    "idplant": "P00516",
+    "idcrude": "S00655"
+  },
+  {
+    "idplant": "P00517",
+    "idcrude": "S00656"
+  },
+  {
+    "idplant": "P00517",
+    "idcrude": "S00657"
+  },
+  {
+    "idplant": "P00517",
+    "idcrude": "S00658"
+  },
+  {
+    "idplant": "P00517",
+    "idcrude": "S00659"
+  },
+  {
+    "idplant": "P00518",
+    "idcrude": "S00660"
+  },
+  {
+    "idplant": "P00518",
+    "idcrude": "S00661"
+  },
+  {
+    "idplant": "P00518",
+    "idcrude": "S00662"
+  },
+  {
+    "idplant": "P00519",
+    "idcrude": "S00663"
+  },
+  {
+    "idplant": "P00520",
+    "idcrude": "S00664"
+  },
+  {
+    "idplant": "P00520",
+    "idcrude": "S00665"
+  },
+  {
+    "idplant": "P00521",
+    "idcrude": "S00666"
+  },
+  {
+    "idplant": "P00522",
+    "idcrude": "S00668"
+  },
+  {
+    "idplant": "P00523",
+    "idcrude": "S00669"
+  },
+  {
+    "idplant": "P00523",
+    "idcrude": "S00670"
+  },
+  {
+    "idplant": "P00524",
+    "idcrude": "S00671"
+  },
+  {
+    "idplant": "P00525",
+    "idcrude": "S00672"
+  },
+  {
+    "idplant": "P00526",
+    "idcrude": "S00673"
+  },
+  {
+    "idplant": "P00526",
+    "idcrude": "S00674"
+  },
+  {
+    "idplant": "P00526",
+    "idcrude": "S00675"
+  },
+  {
+    "idplant": "P00526",
+    "idcrude": "S00676"
+  },
+  {
+    "idplant": "P00527",
+    "idcrude": "S00677"
+  },
+  {
+    "idplant": "P00528",
+    "idcrude": "S00678"
+  },
+  {
+    "idplant": "P00528",
+    "idcrude": "S00679"
+  },
+  {
+    "idplant": "P00528",
+    "idcrude": "S00680"
+  },
+  {
+    "idplant": "P00529",
+    "idcrude": "S00681"
+  },
+  {
+    "idplant": "P00530",
+    "idcrude": "S00682"
+  },
+  {
+    "idplant": "P00530",
+    "idcrude": "S00683"
+  },
+  {
+    "idplant": "P00530",
+    "idcrude": "S00684"
+  },
+  {
+    "idplant": "P00530",
+    "idcrude": "T00111"
+  },
+  {
+    "idplant": "P00530",
+    "idcrude": "T00216"
+  },
+  {
+    "idplant": "P00531",
+    "idcrude": "S00685"
+  },
+  {
+    "idplant": "P00532",
+    "idcrude": "S00686"
+  },
+  {
+    "idplant": "P00533",
+    "idcrude": "S00687"
+  },
+  {
+    "idplant": "P00534",
+    "idcrude": "S00688"
+  },
+  {
+    "idplant": "P00535",
+    "idcrude": "S00689"
+  },
+  {
+    "idplant": "P00535",
+    "idcrude": "S00690"
+  },
+  {
+    "idplant": "P00536",
+    "idcrude": "T00180"
+  },
+  {
+    "idplant": "P00537",
+    "idcrude": "S00691"
+  },
+  {
+    "idplant": "P00538",
+    "idcrude": "S00692"
+  },
+  {
+    "idplant": "P00538",
+    "idcrude": "S00693"
+  },
+  {
+    "idplant": "P00538",
+    "idcrude": "S00694"
+  },
+  {
+    "idplant": "P00538",
+    "idcrude": "S00695"
+  },
+  {
+    "idplant": "P00538",
+    "idcrude": "S00696"
+  },
+  {
+    "idplant": "P00538",
+    "idcrude": "S00697"
+  },
+  {
+    "idplant": "P00539",
+    "idcrude": "S00699"
+  },
+  {
+    "idplant": "P00540",
+    "idcrude": "T00165"
+  },
+  {
+    "idplant": "P00540",
+    "idcrude": "T00281"
+  },
+  {
+    "idplant": "P00541",
+    "idcrude": "S00700"
+  },
+  {
+    "idplant": "P00541",
+    "idcrude": "S00701"
+  },
+  {
+    "idplant": "P00541",
+    "idcrude": "T00186"
+  },
+  {
+    "idplant": "P00542",
+    "idcrude": "S00702"
+  },
+  {
+    "idplant": "P00543",
+    "idcrude": "S00703"
+  },
+  {
+    "idplant": "P00544",
+    "idcrude": "S00704"
+  },
+  {
+    "idplant": "P00544",
+    "idcrude": "S00705"
+  },
+  {
+    "idplant": "P00545",
+    "idcrude": "S00706"
+  },
+  {
+    "idplant": "P00545",
+    "idcrude": "S00707"
+  },
+  {
+    "idplant": "P00546",
+    "idcrude": "T00045"
+  },
+  {
+    "idplant": "P00546",
+    "idcrude": "T00257"
+  },
+  {
+    "idplant": "P00547",
+    "idcrude": "S00708"
+  },
+  {
+    "idplant": "P00547",
+    "idcrude": "T00045"
+  },
+  {
+    "idplant": "P00547",
+    "idcrude": "T00257"
+  },
+  {
+    "idplant": "P00548",
+    "idcrude": "T00105"
+  },
+  {
+    "idplant": "P00549",
+    "idcrude": "S00709"
+  },
+  {
+    "idplant": "P00549",
+    "idcrude": "S00710"
+  },
+  {
+    "idplant": "P00549",
+    "idcrude": "S00711"
+  },
+  {
+    "idplant": "P00550",
+    "idcrude": "S00712"
+  },
+  {
+    "idplant": "P00551",
+    "idcrude": "S00713"
+  },
+  {
+    "idplant": "P00551",
+    "idcrude": "S00714"
+  },
+  {
+    "idplant": "P00552",
+    "idcrude": "S00715"
+  },
+  {
+    "idplant": "P00553",
+    "idcrude": "S00716"
+  },
+  {
+    "idplant": "P00554",
+    "idcrude": "S00717"
+  },
+  {
+    "idplant": "P00555",
+    "idcrude": "S00718"
+  },
+  {
+    "idplant": "P00556",
+    "idcrude": "S00719"
+  },
+  {
+    "idplant": "P00556",
+    "idcrude": "T00152"
+  },
+  {
+    "idplant": "P00556",
+    "idcrude": "T00218"
+  },
+  {
+    "idplant": "P00557",
+    "idcrude": "S00720"
+  },
+  {
+    "idplant": "P00558",
+    "idcrude": "S00721"
+  },
+  {
+    "idplant": "P00559",
+    "idcrude": "S00722"
+  },
+  {
+    "idplant": "P00560",
+    "idcrude": "S00723"
+  },
+  {
+    "idplant": "P00561",
+    "idcrude": "S00724"
+  },
+  {
+    "idplant": "P00561",
+    "idcrude": "S00725"
+  },
+  {
+    "idplant": "P00562",
+    "idcrude": "S00726"
+  },
+  {
+    "idplant": "P00563",
+    "idcrude": "S00727"
+  },
+  {
+    "idplant": "P00563",
+    "idcrude": "S00728"
+  },
+  {
+    "idplant": "P00563",
+    "idcrude": "S00729"
+  },
+  {
+    "idplant": "P00563",
+    "idcrude": "S00730"
+  },
+  {
+    "idplant": "P00563",
+    "idcrude": "S00731"
+  },
+  {
+    "idplant": "P00563",
+    "idcrude": "T00013"
+  },
+  {
+    "idplant": "P00563",
+    "idcrude": "T00140"
+  },
+  {
+    "idplant": "P00564",
+    "idcrude": "T00170"
+  },
+  {
+    "idplant": "P00565",
+    "idcrude": "S00732"
+  },
+  {
+    "idplant": "P00565",
+    "idcrude": "S00733"
+  },
+  {
+    "idplant": "P00566",
+    "idcrude": "S00734"
+  },
+  {
+    "idplant": "P00566",
+    "idcrude": "S00735"
+  },
+  {
+    "idplant": "P00567",
+    "idcrude": "S00736"
+  },
+  {
+    "idplant": "P00567",
+    "idcrude": "T00086"
+  },
+  {
+    "idplant": "P00568",
+    "idcrude": "S00737"
+  },
+  {
+    "idplant": "P00568",
+    "idcrude": "T00169"
+  },
+  {
+    "idplant": "P00568",
+    "idcrude": "T00221"
+  },
+  {
+    "idplant": "P00568",
+    "idcrude": "T00225"
+  },
+  {
+    "idplant": "P00569",
+    "idcrude": "S00738"
+  },
+  {
+    "idplant": "P00570",
+    "idcrude": "S00739"
+  },
+  {
+    "idplant": "P00571",
+    "idcrude": "S00740"
+  },
+  {
+    "idplant": "P00571",
+    "idcrude": "T00143"
+  },
+  {
+    "idplant": "P00571",
+    "idcrude": "T00208"
+  },
+  {
+    "idplant": "P00572",
+    "idcrude": "S00741"
+  },
+  {
+    "idplant": "P00573",
+    "idcrude": "S00742"
+  },
+  {
+    "idplant": "P00574",
+    "idcrude": "S00743"
+  },
+  {
+    "idplant": "P00575",
+    "idcrude": "S00744"
+  },
+  {
+    "idplant": "P00576",
+    "idcrude": "S00748"
+  },
+  {
+    "idplant": "P00577",
+    "idcrude": "S00749"
+  },
+  {
+    "idplant": "P00577",
+    "idcrude": "S00750"
+  },
+  {
+    "idplant": "P00577",
+    "idcrude": "S00751"
+  },
+  {
+    "idplant": "P00577",
+    "idcrude": "S00752"
+  },
+  {
+    "idplant": "P00578",
+    "idcrude": "S00753"
+  },
+  {
+    "idplant": "P00579",
+    "idcrude": "S00754"
+  },
+  {
+    "idplant": "P00580",
+    "idcrude": "S00755"
+  },
+  {
+    "idplant": "P00580",
+    "idcrude": "S00756"
+  },
+  {
+    "idplant": "P00581",
+    "idcrude": "S00757"
+  },
+  {
+    "idplant": "P00582",
+    "idcrude": "S00758"
+  },
+  {
+    "idplant": "P00583",
+    "idcrude": "S00759"
+  },
+  {
+    "idplant": "P00584",
+    "idcrude": "S00760"
+  },
+  {
+    "idplant": "P00585",
+    "idcrude": "T00138"
+  },
+  {
+    "idplant": "P00585",
+    "idcrude": "T00220"
+  },
+  {
+    "idplant": "P00586",
+    "idcrude": "S00762"
+  },
+  {
+    "idplant": "P00587",
+    "idcrude": "S00763"
+  },
+  {
+    "idplant": "P00587",
+    "idcrude": "T00079"
+  },
+  {
+    "idplant": "P00587",
+    "idcrude": "T00080"
+  },
+  {
+    "idplant": "P00587",
+    "idcrude": "T00113"
+  },
+  {
+    "idplant": "P00588",
+    "idcrude": "S00764"
+  },
+  {
+    "idplant": "P00589",
+    "idcrude": "S00765"
+  },
+  {
+    "idplant": "P00590",
+    "idcrude": "S00766"
+  },
+  {
+    "idplant": "P00590",
+    "idcrude": "S00767"
+  },
+  {
+    "idplant": "P00590",
+    "idcrude": "S00768"
+  },
+  {
+    "idplant": "P00590",
+    "idcrude": "S00769"
+  },
+  {
+    "idplant": "P00591",
+    "idcrude": "S00770"
+  },
+  {
+    "idplant": "P00592",
+    "idcrude": "S00771"
+  },
+  {
+    "idplant": "P00592",
+    "idcrude": "S00772"
+  },
+  {
+    "idplant": "P00592",
+    "idcrude": "T00104"
+  },
+  {
+    "idplant": "P00593",
+    "idcrude": "S00773"
+  },
+  {
+    "idplant": "P00593",
+    "idcrude": "S00774"
+  },
+  {
+    "idplant": "P00593",
+    "idcrude": "S00775"
+  },
+  {
+    "idplant": "P00594",
+    "idcrude": "S00776"
+  },
+  {
+    "idplant": "P00595",
+    "idcrude": "S00777"
+  },
+  {
+    "idplant": "P00595",
+    "idcrude": "S00778"
+  },
+  {
+    "idplant": "P00595",
+    "idcrude": "S00779"
+  },
+  {
+    "idplant": "P00596",
+    "idcrude": "S00780"
+  },
+  {
+    "idplant": "P00597",
+    "idcrude": "T00018"
+  },
+  {
+    "idplant": "P00598",
+    "idcrude": "S00782"
+  },
+  {
+    "idplant": "P00598",
+    "idcrude": "T00018"
+  },
+  {
+    "idplant": "P00599",
+    "idcrude": "S00783"
+  },
+  {
+    "idplant": "P00600",
+    "idcrude": "S00784"
+  },
+  {
+    "idplant": "P00601",
+    "idcrude": "S00785"
+  },
+  {
+    "idplant": "P00602",
+    "idcrude": "S00786"
+  },
+  {
+    "idplant": "P00603",
+    "idcrude": "S00787"
+  },
+  {
+    "idplant": "P00603",
+    "idcrude": "S00788"
+  },
+  {
+    "idplant": "P00604",
+    "idcrude": "S00789"
+  },
+  {
+    "idplant": "P00605",
+    "idcrude": "T00272"
+  },
+  {
+    "idplant": "P00606",
+    "idcrude": "T00222"
+  },
+  {
+    "idplant": "P00606",
+    "idcrude": "T00272"
+  },
+  {
+    "idplant": "P00607",
+    "idcrude": "S00790"
+  },
+  {
+    "idplant": "P00607",
+    "idcrude": "S00791"
+  },
+  {
+    "idplant": "P00607",
+    "idcrude": "S00792"
+  },
+  {
+    "idplant": "P00608",
+    "idcrude": "S00793"
+  },
+  {
+    "idplant": "P00609",
+    "idcrude": "S00794"
+  },
+  {
+    "idplant": "P00609",
+    "idcrude": "S00795"
+  },
+  {
+    "idplant": "P00610",
+    "idcrude": "S00796"
+  },
+  {
+    "idplant": "P00610",
+    "idcrude": "S00797"
+  },
+  {
+    "idplant": "P00610",
+    "idcrude": "S00798"
+  },
+  {
+    "idplant": "P00611",
+    "idcrude": "S00799"
+  },
+  {
+    "idplant": "P00612",
+    "idcrude": "S00800"
+  },
+  {
+    "idplant": "P00612",
+    "idcrude": "S00801"
+  },
+  {
+    "idplant": "P00612",
+    "idcrude": "S00802"
+  },
+  {
+    "idplant": "P00612",
+    "idcrude": "S00803"
+  },
+  {
+    "idplant": "P00612",
+    "idcrude": "S00804"
+  },
+  {
+    "idplant": "P00613",
+    "idcrude": "S00805"
+  },
+  {
+    "idplant": "P00614",
+    "idcrude": "S00806"
+  },
+  {
+    "idplant": "P00615",
+    "idcrude": "T00157"
+  },
+  {
+    "idplant": "P00616",
+    "idcrude": "T00184"
+  },
+  {
+    "idplant": "P00617",
+    "idcrude": "S00807"
+  },
+  {
+    "idplant": "P00618",
+    "idcrude": "T00184"
+  },
+  {
+    "idplant": "P00619",
+    "idcrude": "T00184"
+  },
+  {
+    "idplant": "P00620",
+    "idcrude": "S00808"
+  },
+  {
+    "idplant": "P00620",
+    "idcrude": "S00809"
+  },
+  {
+    "idplant": "P00621",
+    "idcrude": "S00810"
+  },
+  {
+    "idplant": "P00621",
+    "idcrude": "S00811"
+  },
+  {
+    "idplant": "P00621",
+    "idcrude": "S00812"
+  },
+  {
+    "idplant": "P00621",
+    "idcrude": "S00813"
+  },
+  {
+    "idplant": "P00621",
+    "idcrude": "S00814"
+  },
+  {
+    "idplant": "P00621",
+    "idcrude": "S00815"
+  },
+  {
+    "idplant": "P00622",
+    "idcrude": "S00816"
+  },
+  {
+    "idplant": "P00623",
+    "idcrude": "S00817"
+  },
+  {
+    "idplant": "P00623",
+    "idcrude": "S00818"
+  },
+  {
+    "idplant": "P00623",
+    "idcrude": "S00819"
+  },
+  {
+    "idplant": "P00623",
+    "idcrude": "S00820"
+  },
+  {
+    "idplant": "P00624",
+    "idcrude": "S00821"
+  },
+  {
+    "idplant": "P00625",
+    "idcrude": "S00822"
+  },
+  {
+    "idplant": "P00626",
+    "idcrude": "S00823"
+  },
+  {
+    "idplant": "P00627",
+    "idcrude": "S00824"
+  },
+  {
+    "idplant": "P00627",
+    "idcrude": "T00088"
+  },
+  {
+    "idplant": "P00628",
+    "idcrude": "S00825"
+  },
+  {
+    "idplant": "P00628",
+    "idcrude": "S00826"
+  },
+  {
+    "idplant": "P00628",
+    "idcrude": "S00827"
+  },
+  {
+    "idplant": "P00629",
+    "idcrude": "S00828"
+  },
+  {
+    "idplant": "P00630",
+    "idcrude": "S00829"
+  },
+  {
+    "idplant": "P00631",
+    "idcrude": "S00830"
+  },
+  {
+    "idplant": "P00632",
+    "idcrude": "T00042"
+  },
+  {
+    "idplant": "P00633",
+    "idcrude": "S00831"
+  },
+  {
+    "idplant": "P00633",
+    "idcrude": "S00832"
+  },
+  {
+    "idplant": "P00634",
+    "idcrude": "S00833"
+  },
+  {
+    "idplant": "P00634",
+    "idcrude": "S00834"
+  },
+  {
+    "idplant": "P00635",
+    "idcrude": "S00835"
+  },
+  {
+    "idplant": "P00636",
+    "idcrude": "S00836"
+  },
+  {
+    "idplant": "P00637",
+    "idcrude": "S00838"
+  },
+  {
+    "idplant": "P00638",
+    "idcrude": "S00839"
+  },
+  {
+    "idplant": "P00639",
+    "idcrude": "S00840"
+  },
+  {
+    "idplant": "P00639",
+    "idcrude": "S00841"
+  },
+  {
+    "idplant": "P00640",
+    "idcrude": "S00842"
+  },
+  {
+    "idplant": "P00640",
+    "idcrude": "S00843"
+  },
+  {
+    "idplant": "P00641",
+    "idcrude": "S00844"
+  },
+  {
+    "idplant": "P00642",
+    "idcrude": "S00845"
+  },
+  {
+    "idplant": "P00642",
+    "idcrude": "S00846"
+  },
+  {
+    "idplant": "P00642",
+    "idcrude": "S00847"
+  },
+  {
+    "idplant": "P00642",
+    "idcrude": "T00024"
+  },
+  {
+    "idplant": "P00643",
+    "idcrude": "S00848"
+  },
+  {
+    "idplant": "P00644",
+    "idcrude": "T00021"
+  },
+  {
+    "idplant": "P00645",
+    "idcrude": "S00849"
+  },
+  {
+    "idplant": "P00646",
+    "idcrude": "S00850"
+  },
+  {
+    "idplant": "P00647",
+    "idcrude": "S00851"
+  },
+  {
+    "idplant": "P00648",
+    "idcrude": "S00852"
+  },
+  {
+    "idplant": "P00649",
+    "idcrude": "S00853"
+  },
+  {
+    "idplant": "P00649",
+    "idcrude": "S00854"
+  },
+  {
+    "idplant": "P00649",
+    "idcrude": "T00028"
+  },
+  {
+    "idplant": "P00650",
+    "idcrude": "S00856"
+  },
+  {
+    "idplant": "P00650",
+    "idcrude": "T00126"
+  },
+  {
+    "idplant": "P00651",
+    "idcrude": "S00857"
+  },
+  {
+    "idplant": "P00651",
+    "idcrude": "T00161"
+  },
+  {
+    "idplant": "P00652",
+    "idcrude": "S00858"
+  },
+  {
+    "idplant": "P00653",
+    "idcrude": "S00859"
+  },
+  {
+    "idplant": "P00654",
+    "idcrude": "S00860"
+  },
+  {
+    "idplant": "P00655",
+    "idcrude": "S00861"
+  },
+  {
+    "idplant": "P00655",
+    "idcrude": "S00862"
+  },
+  {
+    "idplant": "P00655",
+    "idcrude": "S00863"
+  },
+  {
+    "idplant": "P00656",
+    "idcrude": "S00864"
+  },
+  {
+    "idplant": "P00657",
+    "idcrude": "S00865"
+  },
+  {
+    "idplant": "P00657",
+    "idcrude": "T00046"
+  },
+  {
+    "idplant": "P00658",
+    "idcrude": "S00866"
+  },
+  {
+    "idplant": "P00659",
+    "idcrude": "S00867"
+  },
+  {
+    "idplant": "P00660",
+    "idcrude": "S00868"
+  },
+  {
+    "idplant": "P00661",
+    "idcrude": "S00869"
+  },
+  {
+    "idplant": "P00661",
+    "idcrude": "S00870"
+  },
+  {
+    "idplant": "P00662",
+    "idcrude": "T00019"
+  },
+  {
+    "idplant": "P00663",
+    "idcrude": "S00871"
+  },
+  {
+    "idplant": "P00663",
+    "idcrude": "T00010"
+  },
+  {
+    "idplant": "P00664",
+    "idcrude": "S00872"
+  },
+  {
+    "idplant": "P00664",
+    "idcrude": "T00135"
+  },
+  {
+    "idplant": "P00665",
+    "idcrude": "S00873"
+  },
+  {
+    "idplant": "P00665",
+    "idcrude": "S00874"
+  },
+  {
+    "idplant": "P00666",
+    "idcrude": "S00875"
+  },
+  {
+    "idplant": "P00667",
+    "idcrude": "S00876"
+  },
+  {
+    "idplant": "P00668",
+    "idcrude": "S00877"
+  },
+  {
+    "idplant": "P00668",
+    "idcrude": "S00878"
+  },
+  {
+    "idplant": "P00669",
+    "idcrude": "S00879"
+  },
+  {
+    "idplant": "P00670",
+    "idcrude": "S00880"
+  },
+  {
+    "idplant": "P00671",
+    "idcrude": "S00881"
+  },
+  {
+    "idplant": "P00672",
+    "idcrude": "S00882"
+  },
+  {
+    "idplant": "P00672",
+    "idcrude": "S00883"
+  },
+  {
+    "idplant": "P00673",
+    "idcrude": "S00884"
+  },
+  {
+    "idplant": "P00673",
+    "idcrude": "T00030"
+  },
+  {
+    "idplant": "P00674",
+    "idcrude": "S00886"
+  },
+  {
+    "idplant": "P00674",
+    "idcrude": "S00887"
+  },
+  {
+    "idplant": "P00674",
+    "idcrude": "S00888"
+  },
+  {
+    "idplant": "P00674",
+    "idcrude": "S00889"
+  },
+  {
+    "idplant": "P00675",
+    "idcrude": "S00890"
+  },
+  {
+    "idplant": "P00676",
+    "idcrude": "S00891"
+  },
+  {
+    "idplant": "P00677",
+    "idcrude": "T00167"
+  },
+  {
+    "idplant": "P00678",
+    "idcrude": "S00892"
+  },
+  {
+    "idplant": "P00678",
+    "idcrude": "S00893"
+  },
+  {
+    "idplant": "P00679",
+    "idcrude": "S00894"
+  },
+  {
+    "idplant": "P00680",
+    "idcrude": "S00895"
+  },
+  {
+    "idplant": "P00681",
+    "idcrude": "S00896"
+  },
+  {
+    "idplant": "P00682",
+    "idcrude": "S00897"
+  },
+  {
+    "idplant": "P00682",
+    "idcrude": "T00037"
+  },
+  {
+    "idplant": "P00682",
+    "idcrude": "T00075"
+  },
+  {
+    "idplant": "P00682",
+    "idcrude": "T00090"
+  },
+  {
+    "idplant": "P00682",
+    "idcrude": "T00223"
+  },
+  {
+    "idplant": "P00682",
+    "idcrude": "T00245"
+  },
+  {
+    "idplant": "P00683",
+    "idcrude": "S00898"
+  },
+  {
+    "idplant": "P00684",
+    "idcrude": "T00115"
+  },
+  {
+    "idplant": "P00685",
+    "idcrude": "S00899"
+  },
+  {
+    "idplant": "P00685",
+    "idcrude": "T00115"
+  },
+  {
+    "idplant": "P00686",
+    "idcrude": "S00900"
+  },
+  {
+    "idplant": "P00686",
+    "idcrude": "T00115"
+  },
+  {
+    "idplant": "P00687",
+    "idcrude": "T00115"
+  },
+  {
+    "idplant": "P00688",
+    "idcrude": "S00901"
+  },
+  {
+    "idplant": "P00689",
+    "idcrude": "S00903"
+  },
+  {
+    "idplant": "P00690",
+    "idcrude": "S00904"
+  },
+  {
+    "idplant": "P00690",
+    "idcrude": "S00905"
+  },
+  {
+    "idplant": "P00691",
+    "idcrude": "S00906"
+  },
+  {
+    "idplant": "P00692",
+    "idcrude": "S00907"
+  },
+  {
+    "idplant": "P00692",
+    "idcrude": "S00908"
+  },
+  {
+    "idplant": "P00693",
+    "idcrude": "S00909"
+  },
+  {
+    "idplant": "P00693",
+    "idcrude": "S00910"
+  },
+  {
+    "idplant": "P00694",
+    "idcrude": "S00911"
+  },
+  {
+    "idplant": "P00695",
+    "idcrude": "S00912"
+  },
+  {
+    "idplant": "P00696",
+    "idcrude": "S00913"
+  },
+  {
+    "idplant": "P00697",
+    "idcrude": "S00914"
+  },
+  {
+    "idplant": "P00698",
+    "idcrude": "S00915"
+  },
+  {
+    "idplant": "P00699",
+    "idcrude": "S00916"
+  },
+  {
+    "idplant": "P00700",
+    "idcrude": "S00918"
+  },
+  {
+    "idplant": "P00700",
+    "idcrude": "S00919"
+  },
+  {
+    "idplant": "P00701",
+    "idcrude": "S00920"
+  },
+  {
+    "idplant": "P00702",
+    "idcrude": "S00921"
+  },
+  {
+    "idplant": "P00703",
+    "idcrude": "S00924"
+  },
+  {
+    "idplant": "P00704",
+    "idcrude": "S00925"
+  },
+  {
+    "idplant": "P00705",
+    "idcrude": "S00926"
+  },
+  {
+    "idplant": "P00705",
+    "idcrude": "S00927"
+  },
+  {
+    "idplant": "P00705",
+    "idcrude": "S00928"
+  },
+  {
+    "idplant": "P00706",
+    "idcrude": "S00929"
+  },
+  {
+    "idplant": "P00706",
+    "idcrude": "T00166"
+  },
+  {
+    "idplant": "P00707",
+    "idcrude": "S00930"
+  },
+  {
+    "idplant": "P00708",
+    "idcrude": "S00931"
+  },
+  {
+    "idplant": "P00708",
+    "idcrude": "S00932"
+  },
+  {
+    "idplant": "P00709",
+    "idcrude": "S00933"
+  },
+  {
+    "idplant": "P00709",
+    "idcrude": "S00934"
+  },
+  {
+    "idplant": "P00709",
+    "idcrude": "S00935"
+  },
+  {
+    "idplant": "P00709",
+    "idcrude": "S00936"
+  },
+  {
+    "idplant": "P00709",
+    "idcrude": "T00176"
+  },
+  {
+    "idplant": "P00710",
+    "idcrude": "S00937"
+  },
+  {
+    "idplant": "P00711",
+    "idcrude": "S00938"
+  },
+  {
+    "idplant": "P00711",
+    "idcrude": "S00939"
+  },
+  {
+    "idplant": "P00712",
+    "idcrude": "S00940"
+  },
+  {
+    "idplant": "P00712",
+    "idcrude": "T00062"
+  },
+  {
+    "idplant": "P00712",
+    "idcrude": "T00232"
+  },
+  {
+    "idplant": "P00713",
+    "idcrude": "S00941"
+  },
+  {
+    "idplant": "P00713",
+    "idcrude": "T00049"
+  },
+  {
+    "idplant": "P00714",
+    "idcrude": "T00052"
+  },
+  {
+    "idplant": "P00715",
+    "idcrude": "S00943"
+  },
+  {
+    "idplant": "P00716",
+    "idcrude": "T00052"
+  },
+  {
+    "idplant": "P00717",
+    "idcrude": "S00944"
+  },
+  {
+    "idplant": "P00718",
+    "idcrude": "S00945"
+  },
+  {
+    "idplant": "P00719",
+    "idcrude": "T00016"
+  },
+  {
+    "idplant": "P00720",
+    "idcrude": "S00946"
+  },
+  {
+    "idplant": "P00721",
+    "idcrude": "S00947"
+  },
+  {
+    "idplant": "P00722",
+    "idcrude": "S00949"
+  },
+  {
+    "idplant": "P00723",
+    "idcrude": "S00950"
+  },
+  {
+    "idplant": "P00723",
+    "idcrude": "S00951"
+  },
+  {
+    "idplant": "P00724",
+    "idcrude": "S00952"
+  },
+  {
+    "idplant": "P00725",
+    "idcrude": "S00953"
+  },
+  {
+    "idplant": "P00726",
+    "idcrude": "S00954"
+  },
+  {
+    "idplant": "P00726",
+    "idcrude": "S00955"
+  },
+  {
+    "idplant": "P00726",
+    "idcrude": "T00060"
+  },
+  {
+    "idplant": "P00726",
+    "idcrude": "T00061"
+  },
+  {
+    "idplant": "P00726",
+    "idcrude": "T00261"
+  },
+  {
+    "idplant": "P00727",
+    "idcrude": "S00956"
+  },
+  {
+    "idplant": "P00727",
+    "idcrude": "S00957"
+  },
+  {
+    "idplant": "P00728",
+    "idcrude": "S00958"
+  },
+  {
+    "idplant": "P00728",
+    "idcrude": "T00004"
+  },
+  {
+    "idplant": "P00729",
+    "idcrude": "S00959"
+  },
+  {
+    "idplant": "P00730",
+    "idcrude": "S00960"
+  },
+  {
+    "idplant": "P00731",
+    "idcrude": "S00961"
+  },
+  {
+    "idplant": "P00731",
+    "idcrude": "S00962"
+  },
+  {
+    "idplant": "P00731",
+    "idcrude": "S00963"
+  },
+  {
+    "idplant": "P00731",
+    "idcrude": "S00964"
+  },
+  {
+    "idplant": "P00732",
+    "idcrude": "T00098"
+  },
+  {
+    "idplant": "P00733",
+    "idcrude": "S00965"
+  },
+  {
+    "idplant": "P00734",
+    "idcrude": "S00966"
+  },
+  {
+    "idplant": "P00735",
+    "idcrude": "S00967"
+  },
+  {
+    "idplant": "P00736",
+    "idcrude": "T00148"
+  },
+  {
+    "idplant": "P00737",
+    "idcrude": "S00968"
+  },
+  {
+    "idplant": "P00737",
+    "idcrude": "S00969"
+  },
+  {
+    "idplant": "P00738",
+    "idcrude": "T00164"
+  },
+  {
+    "idplant": "P00739",
+    "idcrude": "S00970"
+  },
+  {
+    "idplant": "P00740",
+    "idcrude": "T00067"
+  },
+  {
+    "idplant": "P00741",
+    "idcrude": "S00971"
+  },
+  {
+    "idplant": "P00741",
+    "idcrude": "S00972"
+  },
+  {
+    "idplant": "P00741",
+    "idcrude": "S00973"
+  },
+  {
+    "idplant": "P00741",
+    "idcrude": "S00974"
+  },
+  {
+    "idplant": "P00742",
+    "idcrude": "S00975"
+  },
+  {
+    "idplant": "P00743",
+    "idcrude": "S00976"
+  },
+  {
+    "idplant": "P00744",
+    "idcrude": "S00977"
+  },
+  {
+    "idplant": "P00745",
+    "idcrude": "S00978"
+  },
+  {
+    "idplant": "P00745",
+    "idcrude": "S00979"
+  },
+  {
+    "idplant": "P00746",
+    "idcrude": "S00980"
+  },
+  {
+    "idplant": "P00747",
+    "idcrude": "S00981"
+  },
+  {
+    "idplant": "P00747",
+    "idcrude": "T00048"
+  },
+  {
+    "idplant": "P00748",
+    "idcrude": "S00982"
+  },
+  {
+    "idplant": "P00748",
+    "idcrude": "S00983"
+  },
+  {
+    "idplant": "P00749",
+    "idcrude": "S00984"
+  },
+  {
+    "idplant": "P00750",
+    "idcrude": "S00985"
+  },
+  {
+    "idplant": "P00751",
+    "idcrude": "S00986"
+  },
+  {
+    "idplant": "P00751",
+    "idcrude": "S00987"
+  },
+  {
+    "idplant": "P00752",
+    "idcrude": "S00988"
+  },
+  {
+    "idplant": "P00753",
+    "idcrude": "S00989"
+  },
+  {
+    "idplant": "P00754",
+    "idcrude": "S00990"
+  },
+  {
+    "idplant": "P00755",
+    "idcrude": "S00991"
+  },
+  {
+    "idplant": "P00756",
+    "idcrude": "S00992"
+  },
+  {
+    "idplant": "P00757",
+    "idcrude": "S00993"
+  },
+  {
+    "idplant": "P00758",
+    "idcrude": "S00994"
+  },
+  {
+    "idplant": "P00759",
+    "idcrude": "S00995"
+  },
+  {
+    "idplant": "P00759",
+    "idcrude": "S00996"
+  },
+  {
+    "idplant": "P00760",
+    "idcrude": "S00997"
+  },
+  {
+    "idplant": "P00760",
+    "idcrude": "S00998"
+  },
+  {
+    "idplant": "P00761",
+    "idcrude": "S00999"
+  },
+  {
+    "idplant": "P00762",
+    "idcrude": "S01000"
+  },
+  {
+    "idplant": "P00763",
+    "idcrude": "S01001"
+  },
+  {
+    "idplant": "P00763",
+    "idcrude": "S01002"
+  },
+  {
+    "idplant": "P00764",
+    "idcrude": "S01003"
+  },
+  {
+    "idplant": "P00765",
+    "idcrude": "S01004"
+  },
+  {
+    "idplant": "P00765",
+    "idcrude": "S01005"
+  },
+  {
+    "idplant": "P00766",
+    "idcrude": "S01006"
+  },
+  {
+    "idplant": "P00767",
+    "idcrude": "S01007"
+  },
+  {
+    "idplant": "P00768",
+    "idcrude": "S01008"
+  },
+  {
+    "idplant": "P00768",
+    "idcrude": "S01009"
+  },
+  {
+    "idplant": "P00768",
+    "idcrude": "S01010"
+  },
+  {
+    "idplant": "P00768",
+    "idcrude": "S01011"
+  },
+  {
+    "idplant": "P00768",
+    "idcrude": "S01012"
+  },
+  {
+    "idplant": "P00769",
+    "idcrude": "S01013"
+  },
+  {
+    "idplant": "P00770",
+    "idcrude": "T00139"
+  },
+  {
+    "idplant": "P00771",
+    "idcrude": "S01014"
+  },
+  {
+    "idplant": "P00772",
+    "idcrude": "S01015"
+  },
+  {
+    "idplant": "P00773",
+    "idcrude": "S01016"
+  },
+  {
+    "idplant": "P00774",
+    "idcrude": "S01017"
+  },
+  {
+    "idplant": "P00774",
+    "idcrude": "S01018"
+  },
+  {
+    "idplant": "P00774",
+    "idcrude": "S01019"
+  },
+  {
+    "idplant": "P00775",
+    "idcrude": "S01020"
+  },
+  {
+    "idplant": "P00775",
+    "idcrude": "S01021"
+  },
+  {
+    "idplant": "P00775",
+    "idcrude": "T00123"
+  },
+  {
+    "idplant": "P00775",
+    "idcrude": "T00124"
+  },
+  {
+    "idplant": "P00776",
+    "idcrude": "S01022"
+  },
+  {
+    "idplant": "P00777",
+    "idcrude": "S01023"
+  },
+  {
+    "idplant": "P00778",
+    "idcrude": "S01024"
+  },
+  {
+    "idplant": "P00778",
+    "idcrude": "S01025"
+  },
+  {
+    "idplant": "P00779",
+    "idcrude": "S01026"
+  },
+  {
+    "idplant": "P00779",
+    "idcrude": "S01027"
+  },
+  {
+    "idplant": "P00779",
+    "idcrude": "S01028"
+  },
+  {
+    "idplant": "P00780",
+    "idcrude": "T00031"
+  },
+  {
+    "idplant": "P00781",
+    "idcrude": "S01029"
+  },
+  {
+    "idplant": "P00781",
+    "idcrude": "S01030"
+  },
+  {
+    "idplant": "P00781",
+    "idcrude": "S01031"
+  },
+  {
+    "idplant": "P00782",
+    "idcrude": "S01032"
+  },
+  {
+    "idplant": "P00783",
+    "idcrude": "S01033"
+  },
+  {
+    "idplant": "P00784",
+    "idcrude": "S01034"
+  },
+  {
+    "idplant": "P00784",
+    "idcrude": "S01035"
+  },
+  {
+    "idplant": "P00785",
+    "idcrude": "S01036"
+  },
+  {
+    "idplant": "P00786",
+    "idcrude": "S01038"
+  },
+  {
+    "idplant": "P00787",
+    "idcrude": "S01039"
+  },
+  {
+    "idplant": "P00787",
+    "idcrude": "S01040"
+  },
+  {
+    "idplant": "P00788",
+    "idcrude": "S01041"
+  },
+  {
+    "idplant": "P00789",
+    "idcrude": "S01042"
+  },
+  {
+    "idplant": "P00790",
+    "idcrude": "S01043"
+  },
+  {
+    "idplant": "P00790",
+    "idcrude": "S01044"
+  },
+  {
+    "idplant": "P00791",
+    "idcrude": "S01045"
+  },
+  {
+    "idplant": "P00791",
+    "idcrude": "S01046"
+  },
+  {
+    "idplant": "P00791",
+    "idcrude": "S01047"
+  },
+  {
+    "idplant": "P00792",
+    "idcrude": "S01048"
+  },
+  {
+    "idplant": "P00792",
+    "idcrude": "S01049"
+  },
+  {
+    "idplant": "P00792",
+    "idcrude": "T00026"
+  },
+  {
+    "idplant": "P00793",
+    "idcrude": "T00017"
+  },
+  {
+    "idplant": "P00793",
+    "idcrude": "T00189"
+  },
+  {
+    "idplant": "P00794",
+    "idcrude": "S01050"
+  },
+  {
+    "idplant": "P00795",
+    "idcrude": "S01051"
+  },
+  {
+    "idplant": "P00795",
+    "idcrude": "S01052"
+  },
+  {
+    "idplant": "P00796",
+    "idcrude": "S01053"
+  },
+  {
+    "idplant": "P00796",
+    "idcrude": "S01054"
+  },
+  {
+    "idplant": "P00796",
+    "idcrude": "S01055"
+  },
+  {
+    "idplant": "P00797",
+    "idcrude": "S01056"
+  },
+  {
+    "idplant": "P00798",
+    "idcrude": "S01057"
+  },
+  {
+    "idplant": "P00798",
+    "idcrude": "S01058"
+  },
+  {
+    "idplant": "P00798",
+    "idcrude": "S01059"
+  },
+  {
+    "idplant": "P00799",
+    "idcrude": "S01060"
+  },
+  {
+    "idplant": "P00800",
+    "idcrude": "S01061"
+  },
+  {
+    "idplant": "P00801",
+    "idcrude": "S01062"
+  },
+  {
+    "idplant": "P00801",
+    "idcrude": "S01063"
+  },
+  {
+    "idplant": "P00801",
+    "idcrude": "S01064"
+  },
+  {
+    "idplant": "P00801",
+    "idcrude": "S01065"
+  },
+  {
+    "idplant": "P00802",
+    "idcrude": "S01066"
+  },
+  {
+    "idplant": "P00802",
+    "idcrude": "S01067"
+  },
+  {
+    "idplant": "P00802",
+    "idcrude": "S01068"
+  },
+  {
+    "idplant": "P00802",
+    "idcrude": "S01069"
+  },
+  {
+    "idplant": "P00802",
+    "idcrude": "T00081"
+  },
+  {
+    "idplant": "P00803",
+    "idcrude": "T00033"
+  },
+  {
+    "idplant": "P00803",
+    "idcrude": "T00034"
+  },
+  {
+    "idplant": "P00803",
+    "idcrude": "T00035"
+  },
+  {
+    "idplant": "P00803",
+    "idcrude": "T00228"
+  },
+  {
+    "idplant": "P00803",
+    "idcrude": "T00252"
+  },
+  {
+    "idplant": "P00803",
+    "idcrude": "T00253"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "S01070"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "S01071"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "S01072"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "T00033"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "T00034"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "T00035"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "T00228"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "T00252"
+  },
+  {
+    "idplant": "P00804",
+    "idcrude": "T00253"
+  },
+  {
+    "idplant": "P00805",
+    "idcrude": "S01073"
+  },
+  {
+    "idplant": "P00806",
+    "idcrude": "S01074"
+  },
+  {
+    "idplant": "P00807",
+    "idcrude": "S01075"
+  },
+  {
+    "idplant": "P00807",
+    "idcrude": "S01076"
+  },
+  {
+    "idplant": "P00808",
+    "idcrude": "T00063"
+  },
+  {
+    "idplant": "P00809",
+    "idcrude": "S01077"
+  },
+  {
+    "idplant": "P00810",
+    "idcrude": "S01078"
+  },
+  {
+    "idplant": "P00811",
+    "idcrude": "S01079"
+  },
+  {
+    "idplant": "P00811",
+    "idcrude": "T00041"
+  },
+  {
+    "idplant": "P00811",
+    "idcrude": "T00254"
+  },
+  {
+    "idplant": "P00812",
+    "idcrude": "S01082"
+  },
+  {
+    "idplant": "P00813",
+    "idcrude": "S01083"
+  },
+  {
+    "idplant": "P00813",
+    "idcrude": "S01084"
+  },
+  {
+    "idplant": "P00813",
+    "idcrude": "T00002"
+  },
+  {
+    "idplant": "P00814",
+    "idcrude": "T00188"
+  },
+  {
+    "idplant": "P00814",
+    "idcrude": "T00235"
+  },
+  {
+    "idplant": "P00815",
+    "idcrude": "S01085"
+  },
+  {
+    "idplant": "P00815",
+    "idcrude": "T00188"
+  },
+  {
+    "idplant": "P00815",
+    "idcrude": "T00235"
+  },
+  {
+    "idplant": "P00816",
+    "idcrude": "T00188"
+  },
+  {
+    "idplant": "P00816",
+    "idcrude": "T00235"
+  },
+  {
+    "idplant": "P00817",
+    "idcrude": "S01086"
+  },
+  {
+    "idplant": "P00818",
+    "idcrude": "S01087"
+  },
+  {
+    "idplant": "P00819",
+    "idcrude": "S01088"
+  },
+  {
+    "idplant": "P00819",
+    "idcrude": "S01089"
+  },
+  {
+    "idplant": "P00820",
+    "idcrude": "S01090"
+  },
+  {
+    "idplant": "P00821",
+    "idcrude": "S01091"
+  },
+  {
+    "idplant": "P00822",
+    "idcrude": "S01092"
+  },
+  {
+    "idplant": "P00823",
+    "idcrude": "S01093"
+  },
+  {
+    "idplant": "P00824",
+    "idcrude": "S01094"
+  },
+  {
+    "idplant": "P00825",
+    "idcrude": "S01095"
+  },
+  {
+    "idplant": "P00826",
+    "idcrude": "S01097"
+  },
+  {
+    "idplant": "P00827",
+    "idcrude": "S01098"
+  },
+  {
+    "idplant": "P00828",
+    "idcrude": "S01099"
+  },
+  {
+    "idplant": "P00829",
+    "idcrude": "S01100"
+  },
+  {
+    "idplant": "P00829",
+    "idcrude": "S01101"
+  },
+  {
+    "idplant": "P00830",
+    "idcrude": "S01102"
+  },
+  {
+    "idplant": "P00831",
+    "idcrude": "T00173"
+  },
+  {
+    "idplant": "P00832",
+    "idcrude": "S01103"
+  },
+  {
+    "idplant": "P00832",
+    "idcrude": "S01104"
+  },
+  {
+    "idplant": "P00832",
+    "idcrude": "T00173"
+  },
+  {
+    "idplant": "P00833",
+    "idcrude": "S01105"
+  },
+  {
+    "idplant": "P00834",
+    "idcrude": "S01106"
+  },
+  {
+    "idplant": "P00834",
+    "idcrude": "S01107"
+  },
+  {
+    "idplant": "P00835",
+    "idcrude": "S01109"
+  },
+  {
+    "idplant": "P00835",
+    "idcrude": "S01110"
+  },
+  {
+    "idplant": "P00835",
+    "idcrude": "S01111"
+  },
+  {
+    "idplant": "P00835",
+    "idcrude": "S01112"
+  },
+  {
+    "idplant": "P00835",
+    "idcrude": "S01113"
+  },
+  {
+    "idplant": "P00836",
+    "idcrude": "S01114"
+  },
+  {
+    "idplant": "P00837",
+    "idcrude": "S01116"
+  },
+  {
+    "idplant": "P00837",
+    "idcrude": "S01117"
+  },
+  {
+    "idplant": "P00837",
+    "idcrude": "S01118"
+  },
+  {
+    "idplant": "P00838",
+    "idcrude": "S01119"
+  },
+  {
+    "idplant": "P00839",
+    "idcrude": "T00071"
+  },
+  {
+    "idplant": "P00839",
+    "idcrude": "T00202"
+  },
+  {
+    "idplant": "P00840",
+    "idcrude": "T00005"
+  },
+  {
+    "idplant": "P00841",
+    "idcrude": "S01120"
+  },
+  {
+    "idplant": "P00841",
+    "idcrude": "S01121"
+  },
+  {
+    "idplant": "P00841",
+    "idcrude": "S01122"
+  },
+  {
+    "idplant": "P00842",
+    "idcrude": "S01123"
+  },
+  {
+    "idplant": "P00843",
+    "idcrude": "S01124"
+  },
+  {
+    "idplant": "P00844",
+    "idcrude": "S01125"
+  },
+  {
+    "idplant": "P00845",
+    "idcrude": "S01127"
+  },
+  {
+    "idplant": "P00845",
+    "idcrude": "S01128"
+  },
+  {
+    "idplant": "P00845",
+    "idcrude": "S01129"
+  },
+  {
+    "idplant": "P00845",
+    "idcrude": "T00036"
+  },
+  {
+    "idplant": "P00845",
+    "idcrude": "T00038"
+  },
+  {
+    "idplant": "P00845",
+    "idcrude": "T00093"
+  },
+  {
+    "idplant": "P00845",
+    "idcrude": "T00194"
+  },
+  {
+    "idplant": "P00845",
+    "idcrude": "T00219"
+  },
+  {
+    "idplant": "P00846",
+    "idcrude": "S01130"
+  },
+  {
+    "idplant": "P00847",
+    "idcrude": "S01131"
+  },
+  {
+    "idplant": "P00848",
+    "idcrude": "S01132"
+  },
+  {
+    "idplant": "P00849",
+    "idcrude": "S01133"
+  },
+  {
+    "idplant": "P00850",
+    "idcrude": "T00072"
+  },
+  {
+    "idplant": "P00850",
+    "idcrude": "T00116"
+  }
+]

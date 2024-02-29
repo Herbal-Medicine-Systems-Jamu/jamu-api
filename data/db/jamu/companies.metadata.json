@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"jamu.companies"},{"v":2,"unique":true,"key":{"idcompany":1},"name":"idcompany_1","ns":"jamu.companies","background":true}],"uuid":"7e459444bf314c13a0eeb4bcc2bc5ed4"}

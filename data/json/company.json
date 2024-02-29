@@ -1,0 +1,7852 @@
+[
+  {
+    "idcompany": "c1",
+    "cname": "Air Mancur",
+    "address": "Jl. Mataram No. 1 Kel. Selong Kec. Kebayoran Baru",
+    "city": "Jakarta Selatan",
+    "country": "Indonesia",
+    "postcode": "12110",
+    "contact": "021-428 00575 / 021-428 00577",
+    "url": "http://www.airmancur.co.id"
+  },
+  {
+    "idcompany": "c2",
+    "cname": "Al - Barokah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c3",
+    "cname": "Asy-Syifa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c4",
+    "cname": "Bunga Teratai",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c5",
+    "cname": "Citidirect International Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c6",
+    "cname": "CV Amarthasada Permas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c7",
+    "cname": "CV. Abad Dua Satu Makmur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c8",
+    "cname": "CV. Abdi Walidain",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c9",
+    "cname": "CV. Afiro Medika",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c10",
+    "cname": "CV. Agaricus Sido Makmur Sentosa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c11",
+    "cname": "CV. AGUNG MEDICA INDONESIA",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c12",
+    "cname": "CV. Agung Sejahtera Sejati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c13",
+    "cname": "CV. AKAR PINANG INDONESIA",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c14",
+    "cname": "CV. Al Manar Herbafit",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c15",
+    "cname": "CV. Alam Aulia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c16",
+    "cname": "CV. Alvi Sahrin",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c17",
+    "cname": "CV. AN` NUR",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c18",
+    "cname": "CV. Annissa Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c19",
+    "cname": "CV. Anugerah Alam Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c20",
+    "cname": "CV. Aren Prima laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c21",
+    "cname": "CV. Awena Adi Lestari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c22",
+    "cname": "CV. Basmallah Food",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c23",
+    "cname": "CV. Bintang Jaya Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c24",
+    "cname": "CV. Bunga",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c25",
+    "cname": "CV. Burung Walet Dua Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c26",
+    "cname": "CV. Cipta Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c27",
+    "cname": "CV. Citra Dayak Kapuas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c28",
+    "cname": "CV. Citra Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c29",
+    "cname": "CV. Country Diamond",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c30",
+    "cname": "CV. De Mbe Dhiba Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c31",
+    "cname": "CV. Dera Alfrima",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c32",
+    "cname": "CV. Dunia Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c33",
+    "cname": "CV. Eka Pratama Farmasindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c34",
+    "cname": "CV. Fitrah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c35",
+    "cname": "CV. Flora dan Fauna Herbal Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c36",
+    "cname": "CV. Gajah Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c37",
+    "cname": "CV. Graha Medika Husada",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c38",
+    "cname": "CV. Harvest Gorontalo Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c39",
+    "cname": "CV. HERBACARE 99",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c40",
+    "cname": "CV. Herbacure 99",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c41",
+    "cname": "CV. Herbal Insani",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c42",
+    "cname": "CV. Herbalindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c43",
+    "cname": "CV. HERBALTAMA PERSADA",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c44",
+    "cname": "CV. HSB Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c45",
+    "cname": "CV. IKS Bukit Naga Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c46",
+    "cname": "CV. Indoherbal Mandiri Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c47",
+    "cname": "CV. Indovicco",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c48",
+    "cname": "CV. Internesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c49",
+    "cname": "CV. Inti Sumatra Global Bioscience",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c50",
+    "cname": "CV. Intisari Tanaman Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c51",
+    "cname": "CV. Jamu Putra Serang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c52",
+    "cname": "CV. Jamu Tradisional T. Djojo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c53",
+    "cname": "CV. Jangkar Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c54",
+    "cname": "CV. Jaya Herbal",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c55",
+    "cname": "CV. Kartini",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c56",
+    "cname": "CV. Koonsfito Farmaca",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c57",
+    "cname": "CV. Liyaudin Lasalimu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c58",
+    "cname": "CV. Luqman Herbal",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c59",
+    "cname": "CV. Luxindo Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c60",
+    "cname": "CV. Mahkota Sari Reymasindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c61",
+    "cname": "CV. Martono Jaya Utama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c62",
+    "cname": "CV. Mega Maju Mekar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c63",
+    "cname": "CV. Merapi Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c64",
+    "cname": "CV. Merpati Putih",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c65",
+    "cname": "CV. Mitra Sejahtera Bersama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c66",
+    "cname": "CV. Morinda Mitra Sejati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c67",
+    "cname": "CV. MUHAMMADIN CORP.",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c68",
+    "cname": "CV. Multisari Persada",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c69",
+    "cname": "CV. Mutiara Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c70",
+    "cname": "CV. Naga Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c71",
+    "cname": "CV. Naturaid",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c72",
+    "cname": "CV. Natural Hilife",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c73",
+    "cname": "CV. Nizar Hasan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c74",
+    "cname": "CV. Nurusy - Syifa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c75",
+    "cname": "CV. Nusantara Buana Surya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c76",
+    "cname": "CV. Prima Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c77",
+    "cname": "CV. Pusaka Dhevy Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c78",
+    "cname": "CV. Pusat Pengolahan Kelapa Terpadu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c79",
+    "cname": "CV. Puspita Dewi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c80",
+    "cname": "CV. Putra Pratama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c81",
+    "cname": "CV. Raja Benua Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c82",
+    "cname": "CV. Rajawali Indosakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c83",
+    "cname": "CV. Rajawali Perkasa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c84",
+    "cname": "CV. Rajawali Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c85",
+    "cname": "CV. Rizka Tegar Mulia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c86",
+    "cname": "CV. Saga Sehat Bersama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c87",
+    "cname": "CV. Salsa Wangi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c88",
+    "cname": "CV. Sanjaya Makmur Perkasa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c89",
+    "cname": "CV. Santri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c90",
+    "cname": "CV. Sari Bumi Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c91",
+    "cname": "CV. Sari Bumi Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c92",
+    "cname": "CV. SAS",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c93",
+    "cname": "CV. Sehat Murni Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c94",
+    "cname": "CV. Sejahtera Fitofarma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c95",
+    "cname": "CV. Semoga Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c96",
+    "cname": "CV. Setia Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c97",
+    "cname": "CV. Sidoluhur Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c98",
+    "cname": "CV. Sidomulyo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c99",
+    "cname": "CV. Sinar Mujarab",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c100",
+    "cname": "CV. Sitiara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c101",
+    "cname": "CV. Sumber Dinamis Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c102",
+    "cname": "CV. Sumber Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c103",
+    "cname": "CV. Sunking",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c104",
+    "cname": "CV. Syifana Berkah Makmur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c105",
+    "cname": "CV. Tanamas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c106",
+    "cname": "CV. Tiga Aja Safira",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c107",
+    "cname": "CV. Tiga Kelapa Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c108",
+    "cname": "CV. Tirta Cahaya Alam",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c109",
+    "cname": "CV. Tirta Mustika Biru",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c110",
+    "cname": "CV. Tri Utami Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c111",
+    "cname": "CV. Trimitra Agung Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c112",
+    "cname": "CV. Vermindo International",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c113",
+    "cname": "CV. Vicomas Internasional",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c114",
+    "cname": "CV. Wahyu Illahi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c115",
+    "cname": "CV. Walet Puti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c116",
+    "cname": "CV. Wijaya Makmur Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c117",
+    "cname": "CV. Wijaya Sentosa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c118",
+    "cname": "CV. William Thrah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c119",
+    "cname": "CV. Zalba",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c120",
+    "cname": "Darwin Jamu Godok Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c121",
+    "cname": "Daun Teratai",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c122",
+    "cname": "Dewa Honey",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c123",
+    "cname": "Duta Hong Herbal Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c124",
+    "cname": "FA. Berkat Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c125",
+    "cname": "Firma Miki Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c126",
+    "cname": "Gada Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c127",
+    "cname": "Herbal Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c128",
+    "cname": "Herbalindo Citra Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c129",
+    "cname": "IKOT Al Ghuroba",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c130",
+    "cname": "IKOT Alfiyah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c131",
+    "cname": "IKOT Auto Deck",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c132",
+    "cname": "IKOT Bokashi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c133",
+    "cname": "IKOT Cap Daun",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c134",
+    "cname": "IKOT Cap Tiga Ikan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c135",
+    "cname": "IKOT Gunung Samudra",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c136",
+    "cname": "IKOT HU JAYA",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c137",
+    "cname": "IKOT Ika Satria",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c138",
+    "cname": "IKOT Inti Sumatera Gobal Bioscience",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c139",
+    "cname": "IKOT Itarindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c140",
+    "cname": "IKOT Jampi Praban",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c141",
+    "cname": "IKOT Jamu Mustika Asli Madura",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c142",
+    "cname": "IKOT Jamu Putri Gunung Jati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c143",
+    "cname": "IKOT Jamu Sariningrum",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c144",
+    "cname": "IKOT Kampoeng Herba",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c145",
+    "cname": "IKOT Pasagro (CV. Yandesfegal Group)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c146",
+    "cname": "IKOT Permonojati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c147",
+    "cname": "IKOT Prono Jiwo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c148",
+    "cname": "IKOT Ragil Putra",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c149",
+    "cname": "IKOT Rhizoma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c150",
+    "cname": "IKOT Rolid",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c151",
+    "cname": "IKOT Salama Nusantara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c152",
+    "cname": "IKOT Salamah Food",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c153",
+    "cname": "IKOT Sembilan intan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c154",
+    "cname": "IKOT SKU (Sinar Kemilau Ungu)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c155",
+    "cname": "IKOT Talenta Wijaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c156",
+    "cname": "IKOT Wen Spa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c157",
+    "cname": "IKOT Yayasan Sarana Bhakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c158",
+    "cname": "IKOT. Al - Afiah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c159",
+    "cname": "IKOT. Al Hasanah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c160",
+    "cname": "IKOT. Al Hidayah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c161",
+    "cname": "IKOT. Al-Qomar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c162",
+    "cname": "IKOT. Alam Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c163",
+    "cname": "IKOT. Alfisalam VCO (AVCOL)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c164",
+    "cname": "IKOT. An Nuur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c165",
+    "cname": "IKOT. Anak Singa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c166",
+    "cname": "IKOT. Atsiri Jamalindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c167",
+    "cname": "IKOT. Barokah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c168",
+    "cname": "IKOT. Bayudewa Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c169",
+    "cname": "IKOT. Bintang Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c170",
+    "cname": "IKOT. Budi Lestari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c171",
+    "cname": "IKOT. Cap Bambu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c172",
+    "cname": "IKOT. Cap Tiga Ikan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c173",
+    "cname": "IKOT. Cipta Madura",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c174",
+    "cname": "IKOT. Citra Alam Sentosa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c175",
+    "cname": "IKOT. Daun Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c176",
+    "cname": "IKOT. Dewi Racik",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c177",
+    "cname": "IKOT. Dharma Husada",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c178",
+    "cname": "IKOT. FA. Berkat Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c179",
+    "cname": "IKOT. Farisanu Mobatas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c180",
+    "cname": "IKOT. Galuh Aji",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c181",
+    "cname": "IKOT. Griya Jamu Suket Gendong",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c182",
+    "cname": "IKOT. Gunung Pancoran",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c183",
+    "cname": "IKOT. Handoko",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c184",
+    "cname": "IKOT. Helta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c185",
+    "cname": "IKOT. Herba Bagus",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c186",
+    "cname": "IKOT. Hudzaifah Qahira Food",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c187",
+    "cname": "IKOT. Ibu Kasim",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c188",
+    "cname": "IKOT. Ibu R. Ningsih",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c189",
+    "cname": "IKOT. Jamu Garuda",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c190",
+    "cname": "IKOT. Jamu Helbeh Cap Onta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c191",
+    "cname": "IKOT. Jamu Lanang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c192",
+    "cname": "IKOT. Jamu Putri Kahyangan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c193",
+    "cname": "IKOT. Kapan Anda",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c194",
+    "cname": "IKOT. KBJ Kem Kem",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c195",
+    "cname": "IKOT. Kencono Super",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c196",
+    "cname": "IKOT. Kholariz",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c197",
+    "cname": "IKOT. KIA",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c198",
+    "cname": "IKOT. Kujaya Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c199",
+    "cname": "IKOT. Liang Liong",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c200",
+    "cname": "IKOT. Madu Brotowali",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c201",
+    "cname": "IKOT. Mahkota Madura",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c202",
+    "cname": "IKOT. Mahkota Rizki",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c203",
+    "cname": "IKOT. Melati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c204",
+    "cname": "IKOT. Mustika Madura",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c205",
+    "cname": "IKOT. Mustika Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c206",
+    "cname": "IKOT. Nikisari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c207",
+    "cname": "IKOT. Ny. Hadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c208",
+    "cname": "IKOT. Ny. Sumiati BRB",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c209",
+    "cname": "IKOT. Nyior Koneng",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c210",
+    "cname": "IKOT. Pabbura Ugi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c211",
+    "cname": "IKOT. Pancaran Hidup Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c212",
+    "cname": "IKOT. Pemanah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c213",
+    "cname": "IKOT. Perusahaan Jamu Ibu Sri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c214",
+    "cname": "IKOT. Prakasita Sekar Mataram",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c215",
+    "cname": "IKOT. Pusaka Ibu Madura",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c216",
+    "cname": "IKOT. Pusoko Sejati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c217",
+    "cname": "IKOT. Putri Waso",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c218",
+    "cname": "IKOT. Qolbun Salim",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c219",
+    "cname": "IKOT. Rachmat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c220",
+    "cname": "IKOT. Ragil Putra",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c221",
+    "cname": "IKOT. Ridhallah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c222",
+    "cname": "IKOT. Sari Manjur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c223",
+    "cname": "IKOT. Sekar Arum",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c224",
+    "cname": "IKOT. Sekar Kedaton",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c225",
+    "cname": "IKOT. Sekar Kusuma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c226",
+    "cname": "IKOT. Sembilan Mutiara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c227",
+    "cname": "IKOT. Sengkolan Potre Koneng (Armos)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c228",
+    "cname": "IKOT. Si Jagad Alami",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c229",
+    "cname": "IKOT. Sri Haryanto",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c230",
+    "cname": "IKOT. Sumber Manggis",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c231",
+    "cname": "IKOT. Sungai Duri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c232",
+    "cname": "IKOT. Tamali Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c233",
+    "cname": "IKOT. Tradisional Ibu Dewi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c234",
+    "cname": "IKOT. Tusanco",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c235",
+    "cname": "IKOT. Wahyu Sejati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c236",
+    "cname": "IOT Sari Sehat qq PT. Capung Indah Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c237",
+    "cname": "Jamu Borobudur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c238",
+    "cname": "Jamu Iboe",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c239",
+    "cname": "Jamu Pusaka Endatu Cap Singa Dua",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c240",
+    "cname": "Jamu Puspo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c241",
+    "cname": "Kalimbubu Putra Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c242",
+    "cname": "Koperasi Koliga",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c243",
+    "cname": "Kopja Aneka Sari Unit I Mekar Sari 1",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c244",
+    "cname": "Kopja Aneka Sari Unit II Sembung Jaya 1",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c245",
+    "cname": "Kopja Aneka Sari Unit III Gunung Sugih 1",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c246",
+    "cname": "Kopja Aneka Sari Unit V Kukuh Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c247",
+    "cname": "Kopja Aneka Sari Unit VI Jati Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c248",
+    "cname": "Kopja Aneka Sari Unit VII Ngudi Rahayu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c249",
+    "cname": "Kopja Aneka Sari Unit VIII Ampuh Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c250",
+    "cname": "Kopja Aneka Sari Unit X Rajawali",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c251",
+    "cname": "Kopja Aneka Sari Unit XI Sari Manjur 1",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c252",
+    "cname": "Kopja Aneka Sari Unit XII Gitabuana",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c253",
+    "cname": "KOPJA Sabuk Kuning",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c254",
+    "cname": "Kopja Sabuk Kuning Unit V",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c255",
+    "cname": "KPPT Mekar Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c256",
+    "cname": "Micola",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c257",
+    "cname": "Minyak Mutiara Hitam",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c258",
+    "cname": "NM Air Embun",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c259",
+    "cname": "PD. An Nuur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c260",
+    "cname": "PD. Bulan Purnama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c261",
+    "cname": "PD. Eltra Raya Perkasa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c262",
+    "cname": "PD. Gusco",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c263",
+    "cname": "PD. Jasa Nusantara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c264",
+    "cname": "PD. Ramuan Manjur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c265",
+    "cname": "PD. Rosari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c266",
+    "cname": "PD. Sahara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c267",
+    "cname": "PD. Samsu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c268",
+    "cname": "PD. Sinar Bokor Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c269",
+    "cname": "PD. Teh Krisan Singkawang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c270",
+    "cname": "PJ. Ada Rasa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c271",
+    "cname": "PJ. Agaricus Sidomakmur Sentosa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c272",
+    "cname": "PJ. Aiki",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c273",
+    "cname": "PJ. Air Pusaka",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c274",
+    "cname": "PJ. Akar Maya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c275",
+    "cname": "PJ. Akar Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c276",
+    "cname": "PJ. Akar Seribu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c277",
+    "cname": "PJ. Al Ghuroba",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c278",
+    "cname": "PJ. Aladin",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c279",
+    "cname": "PJ. Alam Subur Manjur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c280",
+    "cname": "PJ. Amar Sakti Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c281",
+    "cname": "PJ. Amm Sina",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c282",
+    "cname": "PJ. Andarina",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c283",
+    "cname": "PJ. Angsa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c284",
+    "cname": "PJ. Anoman",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c285",
+    "cname": "PJ. Anugerah Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c286",
+    "cname": "PJ. Bangun Kasih Herbalindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c287",
+    "cname": "PJ. Barokah Putri Kembar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c288",
+    "cname": "PJ. Bayudewa Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c289",
+    "cname": "PJ. Bintang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c290",
+    "cname": "PJ. Bintang Anugerah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c291",
+    "cname": "PJ. Bintang Bumi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c292",
+    "cname": "PJ. Bintang Lima",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c293",
+    "cname": "PJ. Bintang Timur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c294",
+    "cname": "PJ. Bisma Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c295",
+    "cname": "PJ. Bu Belina",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c296",
+    "cname": "PJ. Bu Slamet",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c297",
+    "cname": "PJ. Cap Bajing",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c298",
+    "cname": "PJ. Cap Burung Kasuari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c299",
+    "cname": "PJ. Cap Joglo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c300",
+    "cname": "PJ. Cap Klanceng",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c301",
+    "cname": "PJ. Cap Kresno Narodo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c302",
+    "cname": "PJ. Cap Kuda",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c303",
+    "cname": "PJ. Cap Merpati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c304",
+    "cname": "PJ. Cap Naga Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c305",
+    "cname": "PJ. CAP ORANG TANI",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c306",
+    "cname": "PJ. Cap Pak Tani",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c307",
+    "cname": "PJ. Cap Sumbodro",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c308",
+    "cname": "PJ. Cap Tiga IKan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c309",
+    "cname": "PJ. Cap Tiga Wanita Ny. Girang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c310",
+    "cname": "PJ. Caping Gunung",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c311",
+    "cname": "PJ. Ching Lung",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c312",
+    "cname": "PJ. Cipta Rasa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c313",
+    "cname": "PJ. Daun Emas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c314",
+    "cname": "PJ. Dewa Dewi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c315",
+    "cname": "PJ. Dhoho",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c316",
+    "cname": "PJ. Doro",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c317",
+    "cname": "PJ. Dr Eko Wahjuni",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c318",
+    "cname": "PJ. Dr. Sardjito",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c319",
+    "cname": "PJ. Dwi Tunggal Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c320",
+    "cname": "PJ. El Shaddai",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c321",
+    "cname": "PJ. Emak Deprok",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c322",
+    "cname": "PJ. Firdha Prima",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c323",
+    "cname": "PJ. Gading Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c324",
+    "cname": "PJ. Gatot Kaca",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c325",
+    "cname": "PJ. Global Marine Prima",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c326",
+    "cname": "PJ. Guna Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c327",
+    "cname": "PJ. Gunung Alam",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c328",
+    "cname": "PJ. Gunung Subur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c329",
+    "cname": "PJ. Hasim Golanding",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c330",
+    "cname": "PJ. Herba Medika",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c331",
+    "cname": "PJ. Herbal Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c332",
+    "cname": "PJ. Herbal Nusantara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c333",
+    "cname": "PJ. IBU TJIPTO",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c334",
+    "cname": "PJ. Idhi Boeyoet",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c335",
+    "cname": "PJ. Indo Sari Raya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c336",
+    "cname": "PJ. Indra",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c337",
+    "cname": "PJ. Jago Gulat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c338",
+    "cname": "PJ. Jalak Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c339",
+    "cname": "PJ. Jamrud Khatulistiwa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c340",
+    "cname": "PJ. Jamu Dayang Sumbi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c341",
+    "cname": "PJ. Janor Koneng",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c342",
+    "cname": "PJ. Jasem",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c343",
+    "cname": "PJ. Jaya Guna",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c344",
+    "cname": "PJ. Jayadipa Putera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c345",
+    "cname": "PJ. Jitu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c346",
+    "cname": "PJ. JM",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c347",
+    "cname": "PJ. Joedhistira",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c348",
+    "cname": "PJ. K.I.I Cap Karapan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c349",
+    "cname": "PJ. Kadarwati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c350",
+    "cname": "PJ. Kala Gemilang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c351",
+    "cname": "PJ. KATES",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c352",
+    "cname": "PJ. Kembang Dunia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c353",
+    "cname": "PJ. Klanceng",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c354",
+    "cname": "PJ. Kuda Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c355",
+    "cname": "PJ. Langgeng Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c356",
+    "cname": "PJ. Langgeng Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c357",
+    "cname": "PJ. Lestari Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c358",
+    "cname": "PJ. Lipan Jaya Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c359",
+    "cname": "PJ. Madu Nusantara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c360",
+    "cname": "PJ. Mahkota Rizki",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c361",
+    "cname": "PJ. Mahkota Wijaya Kusuma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c362",
+    "cname": "PJ. Minyak Ramuan Ciptaan Leluhur (Miracle)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c363",
+    "cname": "PJ. Mitro Rahajoe",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c364",
+    "cname": "PJ. Monggo Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c365",
+    "cname": "PJ. Mudjiono Gunawan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c366",
+    "cname": "PJ. Mulia Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c367",
+    "cname": "PJ. Mutiara Banjar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c368",
+    "cname": "PJ. Nakula Sadewa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c369",
+    "cname": "PJ. Narodo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c370",
+    "cname": "PJ. Nupharma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c371",
+    "cname": "PJ. Ny. Badriyah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c372",
+    "cname": "PJ. Nyonya Asam",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c373",
+    "cname": "PJ. Nyonya Simping Cap Kelapa Jenggi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c374",
+    "cname": "PJ. ORIENTAL",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c375",
+    "cname": "PJ. Partono",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c376",
+    "cname": "PJ. Paten",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c377",
+    "cname": "PJ. Peng An",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c378",
+    "cname": "PJ. Pharmindo Sakti Bengawan Solo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c379",
+    "cname": "PJ. Podang Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c380",
+    "cname": "PJ. Pucuk Sirih",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c381",
+    "cname": "PJ. Pujiono Onnarso Woen",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c382",
+    "cname": "PJ. PUNTODEWO",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c383",
+    "cname": "PJ. Pusoko Pipisan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c384",
+    "cname": "PJ. Puspita Jelita",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c385",
+    "cname": "PJ. Puspita Madura",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c386",
+    "cname": "PJ. Putra Galuh",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c387",
+    "cname": "PJ. Putra Rakyat jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c388",
+    "cname": "PJ. Putri Delima",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c389",
+    "cname": "PJ. Putri Kahyangan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c390",
+    "cname": "PJ. Putri Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c391",
+    "cname": "PJ. Putri Sejati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c392",
+    "cname": "PJ. Putro Kinasih",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c393",
+    "cname": "PJ. Ratulangi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c394",
+    "cname": "PJ. Roda Dunia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c395",
+    "cname": "PJ. Sabdo Jodo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c396",
+    "cname": "PJ. Sabdo Palon",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c397",
+    "cname": "PJ. Sansidarta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c398",
+    "cname": "PJ. Sapta Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c399",
+    "cname": "PJ. Sapu Jagad",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c400",
+    "cname": "PJ. Sapu Jagat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c401",
+    "cname": "PJ. Sari Puri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c402",
+    "cname": "PJ. Sari Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c403",
+    "cname": "PJ. Sari Wangi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c404",
+    "cname": "PJ. Sehat Bahagia Keluarga",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c405",
+    "cname": "PJ. Sekar Ayu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c406",
+    "cname": "PJ. Sekar Mawar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c407",
+    "cname": "PJ. Serbuk Sari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c408",
+    "cname": "PJ. Serbuk Super",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c409",
+    "cname": "PJ. Sergai",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c410",
+    "cname": "PJ. Shinshe Tan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c411",
+    "cname": "PJ. Siang Siang Product",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c412",
+    "cname": "PJ. Sidijodo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c413",
+    "cname": "PJ. Sido Jodo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c414",
+    "cname": "PJ. Sinar Cemerlang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c415",
+    "cname": "PJ. Sinar Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c416",
+    "cname": "PJ. Singa Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c417",
+    "cname": "PJ. Sinshe Tan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c418",
+    "cname": "PJ. Sri Cahyo Ny. Senter",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c419",
+    "cname": "PJ. Srigading",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c420",
+    "cname": "PJ. Star VCO Colomadu-Karanganyar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c421",
+    "cname": "PJ. Sugriwo Subali",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c422",
+    "cname": "PJ. Sumber Rejeki",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c423",
+    "cname": "PJ. Sumber Sukses Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c424",
+    "cname": "PJ. Sumbodro",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c425",
+    "cname": "PJ. Suryo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c426",
+    "cname": "PJ. Teratai",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c427",
+    "cname": "PJ. Tiga Juara Olah Raga",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c428",
+    "cname": "PJ. Tiga Puspa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c429",
+    "cname": "PJ. Tiga Saudara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c430",
+    "cname": "PJ. Tingbao (Cap Semar)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c431",
+    "cname": "PJ. Tjap Lampoe",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c432",
+    "cname": "PJ. Tresna",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c433",
+    "cname": "PJ. Trisno Cipta Usaha",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c434",
+    "cname": "PJ. Tumbuh Lestari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c435",
+    "cname": "PJ. Tunggal Mapan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c436",
+    "cname": "PJ. Usadha Santhika Bali",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c437",
+    "cname": "PJ. Usaha Dawa Alam",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c438",
+    "cname": "PJ. Usaha Tradisional Minyak Padi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c439",
+    "cname": "PJ. Vitaher",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c440",
+    "cname": "PJ. Wahyu Ilalloh",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c441",
+    "cname": "PJ. Walikukun",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c442",
+    "cname": "PJ. Warisan Satu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c443",
+    "cname": "PJ. Wisnu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c444",
+    "cname": "PJ. Zanet Purbaci (Mafrukhan)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c445",
+    "cname": "PJ. Zen Surabaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c446",
+    "cname": "PJ.Warisan Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c447",
+    "cname": "PT, Jamu Indonesia Simona",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c448",
+    "cname": "PT. Afi Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c449",
+    "cname": "PT. Afis Prima Perdana",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c450",
+    "cname": "PT. Air Mancur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c451",
+    "cname": "PT. Aka Natural Medika",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c452",
+    "cname": "PT. Akar Pinang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c453",
+    "cname": "PT. Alam Sehat Nusantara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c454",
+    "cname": "PT. Alomampa Persada",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c455",
+    "cname": "PT. Aneka Coffee Industry",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c456",
+    "cname": "PT. Aquasolve Sanaria",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c457",
+    "cname": "PT. ARTA MITRA SEJAHTERA",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c458",
+    "cname": "PT. Arteri Megah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c459",
+    "cname": "PT. Artois Pharmaceutical Indonesia, Ltd.",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c460",
+    "cname": "PT. Asiatama Agromakmur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c461",
+    "cname": "PT. Asoka Waja Wisesa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c462",
+    "cname": "PT. Avcennia Multi Sainteknika",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c463",
+    "cname": "PT. Ayu Naturally Cemerlang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c464",
+    "cname": "PT. Azet Putra Cemerlang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c465",
+    "cname": "PT. Balatif",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c466",
+    "cname": "PT. Bee Toba Makassar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c467",
+    "cname": "PT. Berial Sumber Medica",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c468",
+    "cname": "PT. Berkat Nadah Agung",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c469",
+    "cname": "PT. Berkat Shanghai Hanjiang",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c470",
+    "cname": "PT. Berlico Mulia Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c471",
+    "cname": "PT. Bernofarm",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c472",
+    "cname": "PT. BIDADARI",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c473",
+    "cname": "PT. Bintang Baruna Global",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c474",
+    "cname": "PT. Bintang Toedjoe",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c475",
+    "cname": "PT. Bio Phytopharma Lab.",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c476",
+    "cname": "PT. Bio-Life Medilab",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c477",
+    "cname": "PT. Biofarmaka Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c478",
+    "cname": "PT. Biovit Nutraceutical (PT. Tropica Mas )",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c479",
+    "cname": "PT. Biovit Nutraceutical Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c480",
+    "cname": "PT. Bunga Ros",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c481",
+    "cname": "PT. Cahaya Biru",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c482",
+    "cname": "PT. Cahaya Biru Medan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c483",
+    "cname": "PT. Candi Mas Purba Salma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c484",
+    "cname": "PT. Candra Nusantara Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c485",
+    "cname": "PT. Capung Indah Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c486",
+    "cname": "PT. Cempaka Tohpati Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c487",
+    "cname": "PT. Cendo Industri Farmasi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c488",
+    "cname": "PT. Chandra Nusantara Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c489",
+    "cname": "PT. Cipta Sehat Sejati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c490",
+    "cname": "PT. Citra Deli Kreasitama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c491",
+    "cname": "PT. Citra Giga Agrotama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c492",
+    "cname": "PT. Ciubros Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c493",
+    "cname": "PT. Combiphar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c494",
+    "cname": "PT. Coronet Crown",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c495",
+    "cname": "PT. Corsa Industries",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c496",
+    "cname": "PT. Cussons Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c497",
+    "cname": "PT. Dami Sariwana",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c498",
+    "cname": "PT. Dankos Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c499",
+    "cname": "PT. Daxen Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c500",
+    "cname": "PT. Deltomed Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c501",
+    "cname": "PT. Dewa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c502",
+    "cname": "PT. Dewi ratu mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c503",
+    "cname": "PT. Dexa Medica",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c504",
+    "cname": "PT. Dexa Medica (PT. Ferron Par Pharmaceutical)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c505",
+    "cname": "PT. Dimensi Rizky Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c506",
+    "cname": "PT. Dipa Pharmalab Intersains",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c507",
+    "cname": "PT. Dragon Prima Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c508",
+    "cname": "PT. Duta Herba Masindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c509",
+    "cname": "PT. Eagle Indo Pharma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c510",
+    "cname": "PT. Eglin Pharma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c511",
+    "cname": "PT. Erela",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c512",
+    "cname": "PT. Erlimpex",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c513",
+    "cname": "PT. Esa Mulia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c514",
+    "cname": "PT. Fabindo Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c515",
+    "cname": "PT. Fastabiq",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c516",
+    "cname": "PT. Ferron Par Pharmaceuticals",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c517",
+    "cname": "PT. Fitrah Fitofarma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c518",
+    "cname": "PT. Fraksindo Almira",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c519",
+    "cname": "PT. Gemilang Sakti Farmindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c520",
+    "cname": "PT. Golden Millenium Manufacturing",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c521",
+    "cname": "PT. Gondo Wangi Sariaji",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c522",
+    "cname": "PT. Gondowangi Tradisional Kosmetika",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c523",
+    "cname": "PT. Graha Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c524",
+    "cname": "PT. Granindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c525",
+    "cname": "PT. Gratia Husada Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c526",
+    "cname": "PT. Green Herba International",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c527",
+    "cname": "PT. Guardian Pharmatama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c528",
+    "cname": "PT. Gujati Lima Puluh Sembilan Utama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c529",
+    "cname": "PT. Gunung Hijau Lestari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c530",
+    "cname": "PT. Habbatussauda International",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c531",
+    "cname": "PT. Haldin Pacific Semesta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c532",
+    "cname": "PT. Hanaka Farmasindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c533",
+    "cname": "PT. Hari Fatma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c534",
+    "cname": "PT. Harmoni Dinamika Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c535",
+    "cname": "PT. Harsen Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c536",
+    "cname": "PT. Health Morinda Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c537",
+    "cname": "PT. Heksatamaprima",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c538",
+    "cname": "PT. Helmigs Prima Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c539",
+    "cname": "PT. Heptasari Unggul",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c540",
+    "cname": "PT. Herba Aneka Semesta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c541",
+    "cname": "PT. Herba Khasiat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c542",
+    "cname": "PT. Herba Medica Cosmetindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c543",
+    "cname": "PT. Herba Medica Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c544",
+    "cname": "PT. Herbal Power Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c545",
+    "cname": "PT. Herbanugraha",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c546",
+    "cname": "PT. Hexpharm Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c547",
+    "cname": "PT. Holistic Bio-Medicine",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c548",
+    "cname": "PT. Hortikindo Modernaraya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c549",
+    "cname": "PT. Hudson Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c550",
+    "cname": "PT. Ifars Pharmaceutical Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c551",
+    "cname": "PT. Igatama Nusantara Permai",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c552",
+    "cname": "PT. Ikapharmindo Putramas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c553",
+    "cname": "PT. Ikapharmindo Putramas (IOT)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c554",
+    "cname": "PT. Ikong Pharmaceutical Industry",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c555",
+    "cname": "PT. Imfarmind Farmasi industri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c556",
+    "cname": "PT. Indo Abadi Sarimakmur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c557",
+    "cname": "PT. Indo Karya Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c558",
+    "cname": "PT. Indofarma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c559",
+    "cname": "PT. Indopas Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c560",
+    "cname": "PT. Indorica Perdana Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c561",
+    "cname": "PT. Industri Jamu & Farmasi Cap JAGO",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c562",
+    "cname": "PT. Industri Jamu Borobudur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c563",
+    "cname": "PT. Inovasi Mitra Sukses",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c564",
+    "cname": "PT. Insan Indofarma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c565",
+    "cname": "PT. Interbat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c566",
+    "cname": "PT. Irawan Djaja Agung",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c567",
+    "cname": "PT. Ixora Berjalin Mitra",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c568",
+    "cname": "PT. Jamu Iboe Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c569",
+    "cname": "PT. Jamu Indonesia Simona",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c570",
+    "cname": "PT. Jamu Puspo Internusa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c571",
+    "cname": "PT. Jatipurna Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c572",
+    "cname": "PT. Javanessia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c573",
+    "cname": "PT. Jaya Nusantara Dipa Husada",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c574",
+    "cname": "PT. Jitu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c575",
+    "cname": "PT. Kalbe Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c576",
+    "cname": "PT. Kalbe Farma Tbk ( PT.Bintang Toedjoe)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c577",
+    "cname": "PT. Kaliroto",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c578",
+    "cname": "PT. Kambing Prima Leotangkas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c579",
+    "cname": "PT. Karya Jaya Dunia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c580",
+    "cname": "PT. Kawi Tradisional",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c581",
+    "cname": "PT. Kembang Bulan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c582",
+    "cname": "PT. Kimberal",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c583",
+    "cname": "PT. Kimia Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c584",
+    "cname": "PT. Kimia Farma (IOT)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c585",
+    "cname": "PT. KinoAid Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c586",
+    "cname": "PT. Konimex",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c587",
+    "cname": "PT. Konimex (IOT)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c588",
+    "cname": "PT. Lapi Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c589",
+    "cname": "PT. Laupan Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c590",
+    "cname": "PT. Leo Agung Raya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c591",
+    "cname": "PT. Liza Herbal International",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c592",
+    "cname": "PT. Lucas Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c593",
+    "cname": "PT. Mahakam Beta Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c594",
+    "cname": "PT. Maharani Altomaris Sarinatural",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c595",
+    "cname": "PT. Mahkotadewa Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c596",
+    "cname": "PT. Makmur Sejati Internusa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c597",
+    "cname": "PT. Manuasa Harapan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c598",
+    "cname": "PT. Marguna Tarulata Apk. Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c599",
+    "cname": "PT. Marin Liza Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c600",
+    "cname": "PT. Martina Berto",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c601",
+    "cname": "PT. Maryong Mondo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c602",
+    "cname": "PT. Mecosin Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c603",
+    "cname": "PT. Meddia Herbal",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c604",
+    "cname": "PT. Medikon Prima Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c605",
+    "cname": "PT. Meditrika Agung Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c606",
+    "cname": "PT. Menara Jopurin",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c607",
+    "cname": "PT. Mentari Anugerah Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c608",
+    "cname": "PT. Mergana Satwika Isthi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c609",
+    "cname": "PT. Merlindo Rekamatra",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c610",
+    "cname": "PT. Merpati Mahardika",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c611",
+    "cname": "PT. Minorock Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c612",
+    "cname": "PT. Miotra Pace",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c613",
+    "cname": "PT. Mudita Karuna",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c614",
+    "cname": "PT. Mugi Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c615",
+    "cname": "PT. Murakabi Buana",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c616",
+    "cname": "PT. Mustika Putri Deli",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c617",
+    "cname": "PT. Mustika Ratu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c618",
+    "cname": "PT. Mutiara Mukti Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c619",
+    "cname": "PT. NATA DECOCO UTAMA",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c620",
+    "cname": "PT. Nellco Indopharma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c621",
+    "cname": "PT. New Asiapharm",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c622",
+    "cname": "PT. Nova Chemie Utama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c623",
+    "cname": "PT. Novell Pharmaceutical Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c624",
+    "cname": "PT. Nyonya Meneer",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c625",
+    "cname": "PT. Nyonya Mipis",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c626",
+    "cname": "PT. ORK GOOD HEALTH",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c627",
+    "cname": "PT. Payung Pusaka",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c628",
+    "cname": "PT. Pertiwi Agung",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c629",
+    "cname": "PT. Phapros",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c630",
+    "cname": "PT. Pharmacore Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c631",
+    "cname": "PT. Pharmasi Binangkit",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c632",
+    "cname": "PT. Pharmasi Binangkit (PT. Nova Chemie Utama)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c633",
+    "cname": "PT. Pharos Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c634",
+    "cname": "PT. Phyto Kemo Agung Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c635",
+    "cname": "PT. Phyto Sana Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c636",
+    "cname": "PT. Prima Agritech Nusantara",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c637",
+    "cname": "PT. Prima Solusi Medika",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c638",
+    "cname": "PT. Promedic Dyna Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c639",
+    "cname": "PT. Puri Intirasa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c640",
+    "cname": "PT. Pusaka Leluhur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c641",
+    "cname": "PT. Pusaka Surga",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c642",
+    "cname": "PT. Pusut Buhit Barat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c643",
+    "cname": "PT. Putro Kinasih",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c644",
+    "cname": "PT. Pyridam Farma Tbk",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c645",
+    "cname": "PT. Rajawali Tri Jaya Sukses",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c646",
+    "cname": "PT. Rama Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c647",
+    "cname": "PT. Rasio Medika Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c648",
+    "cname": "PT. Risto Mulia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c649",
+    "cname": "PT. Royal Medicalink Pharmalab",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c650",
+    "cname": "PT. Ruslindo Anugerah Alam Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c651",
+    "cname": "PT. Sahabat Lingkungan Hidup",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c652",
+    "cname": "PT. Saka Farma Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c653",
+    "cname": "PT. Samdema",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c654",
+    "cname": "PT. Sandai Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c655",
+    "cname": "PT. Saraka Mandiri Semesta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c656",
+    "cname": "PT. Sari Bhumi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c657",
+    "cname": "PT. Sari Bunga Alam Sejati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c658",
+    "cname": "PT. Sari Enesis Indah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c659",
+    "cname": "PT. Sari Gading Pusaka Kalimantan",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c660",
+    "cname": "PT. Sari Pusaka",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c661",
+    "cname": "PT. Sariguna Primatirta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c662",
+    "cname": "PT. Sarinabati Husada",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c663",
+    "cname": "PT. Saroni Milenium Laboratoria",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c664",
+    "cname": "PT. Satwa Lestari Permai",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c665",
+    "cname": "PT. Seger Waras",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c666",
+    "cname": "PT. Sehat Sukses Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c667",
+    "cname": "PT. Sekar Delima Indah Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c668",
+    "cname": "PT. Sekarsari Sakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c669",
+    "cname": "PT. Semar Enam Puluh Berdikari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c670",
+    "cname": "PT. Serasi Indah Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c671",
+    "cname": "PT. Serbuk Manjur",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c672",
+    "cname": "PT. Sido Muncul (PT. Nu Trend International)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c673",
+    "cname": "PT. Sidola",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c674",
+    "cname": "PT. Sifa Jaya Lestari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c675",
+    "cname": "PT. Simex Pharmaceutical Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c676",
+    "cname": "PT. Sinabung",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c677",
+    "cname": "PT. Sinar Effendi Murni",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c678",
+    "cname": "PT. Sinar Herba Radix",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c679",
+    "cname": "PT. Sinar Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c680",
+    "cname": "PT. Sinar Kaliman Sehat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c681",
+    "cname": "PT. Sinde Budi Sentosa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c682",
+    "cname": "PT. Sismadi Industri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c683",
+    "cname": "PT. Soho Industri Obat Tradisional",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c684",
+    "cname": "PT. Soho Industri Pharmasi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c685",
+    "cname": "PT. Solas Langgeng Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c686",
+    "cname": "PT. Solas Langgeng Sejahtera (IOT)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c687",
+    "cname": "PT. Songgolangit Herbal Ind.",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c688",
+    "cname": "PT. Sozo Agro Pasti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c689",
+    "cname": "PT. Sumber Budimulia Adiputra",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c690",
+    "cname": "PT. Sumber Tanushu",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c691",
+    "cname": "PT. Surabaya Indah Permai",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c692",
+    "cname": "PT. Surecoindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c693",
+    "cname": "PT. Surya Coco Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c694",
+    "cname": "PT. Surya Dermato Medica Laboratories",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c695",
+    "cname": "PT. Surya Lestari Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c696",
+    "cname": "PT. Surya Pratama Jaya Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c697",
+    "cname": "PT. Talenta Wijaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c698",
+    "cname": "PT. Tawon Jaya Makasar",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c699",
+    "cname": "PT. Teguhsindo lestaritama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c700",
+    "cname": "PT. Tempo Natural Products",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c701",
+    "cname": "PT. Tempo Scan Pacific Tbk",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c702",
+    "cname": "PT. Tenaga Tani Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c703",
+    "cname": "PT. Terapi Alam Nabati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c704",
+    "cname": "PT. Tifar Admanco",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c705",
+    "cname": "PT. Tiga Putra Perkasa Pharmindo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c706",
+    "cname": "PT. Tirtamas Megah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c707",
+    "cname": "PT. Tjahaja Baru",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c708",
+    "cname": "PT. Toya Konsep Alam",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c709",
+    "cname": "PT. Toyo Brothers",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c710",
+    "cname": "PT. Tresno Joyo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c711",
+    "cname": "PT. Trias Sukses Dinamika",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c712",
+    "cname": "PT. Trisugo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c713",
+    "cname": "PT. Triyasa Nagamas Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c714",
+    "cname": "PT. Trust Pharmaceutical Industries",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c715",
+    "cname": "PT. Tulus Indojaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c716",
+    "cname": "PT. Ultra Prima Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c717",
+    "cname": "PT. Ultratrend Biotech Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c718",
+    "cname": "PT. Ultratrend Biotech Indonesia (IOT)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c719",
+    "cname": "PT. Unggul Dana Cipta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c720",
+    "cname": "PT. Unique Herbamed Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c721",
+    "cname": "PT. USFI",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c722",
+    "cname": "PT. Vitabiotics Healthcare (PT. Sandoz)",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c723",
+    "cname": "PT. Wahida Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c724",
+    "cname": "PT. Wibowo Padmo Kencono",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c725",
+    "cname": "PT. Yanthi Utama",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c726",
+    "cname": "PT. YAP Bersatu Pharmaceutical",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c727",
+    "cname": "PT. YASEPA",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c728",
+    "cname": "PT. Yupharin Pharmaceutical",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c729",
+    "cname": "PT.Sandai Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c730",
+    "cname": "PT.Tenaga Tani Farma",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c731",
+    "cname": "PTIQ Al Furqon",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c732",
+    "cname": "PTt. Argo Vico Industri Indonesia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c733",
+    "cname": "Pusaka Wadi Fatmah",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c734",
+    "cname": "Pusaka Warisan Madura",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c735",
+    "cname": "Puspita Jelita",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c736",
+    "cname": "Putra Rakyat Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c737",
+    "cname": "Setia Kawan Abadi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c738",
+    "cname": "Sido Muncul",
+    "address": "Jl. Cipete Raya No. 81",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "postcode": "12410",
+    "contact": "6221765 3535",
+    "url": "http://www.sidomuncul.com"
+  },
+  {
+    "idcompany": "c739",
+    "cname": "Sriana Milliherbs",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c740",
+    "cname": "Tradisi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c741",
+    "cname": "UD. Alam Berkat Sejahtera",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c742",
+    "cname": "UD. AM Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c743",
+    "cname": "UD. Aqsho",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c744",
+    "cname": "UD. As-Syifa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c745",
+    "cname": "UD. Bali Holistik",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c746",
+    "cname": "UD. Bina Raci",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c747",
+    "cname": "UD. Cahaya Kasih",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c748",
+    "cname": "UD. Cerah Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c749",
+    "cname": "UD. Cipto Angso Duo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c750",
+    "cname": "UD. Citra Alam",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c751",
+    "cname": "UD. Ekadenta Putra",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c752",
+    "cname": "UD. Hadh",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c753",
+    "cname": "UD. Indo Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c754",
+    "cname": "UD. Jamu Subur Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c755",
+    "cname": "UD. Jaya Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c756",
+    "cname": "UD. Kalimosodo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c757",
+    "cname": "UD. Karya Berdikari",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c758",
+    "cname": "UD. Karya Mulia",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c759",
+    "cname": "UD. Karya Tehnik",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c760",
+    "cname": "UD. Keurejheng Mitapa Merk Gigieng UTG",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c761",
+    "cname": "UD. KONDANG",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c762",
+    "cname": "UD. Lentera Agung Raya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c763",
+    "cname": "UD. Liye Fasut",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c764",
+    "cname": "UD. Naga Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c765",
+    "cname": "UD. Nurhayati",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c766",
+    "cname": "UD. Pagoda Mas",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c767",
+    "cname": "UD. Putri Kinasih",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c768",
+    "cname": "UD. Rahmat",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c769",
+    "cname": "UD. Rejeki Jaya",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c770",
+    "cname": "UD. Sambiroto",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c771",
+    "cname": "UD. Sehat Seger Waras",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c772",
+    "cname": "UD. Sidomulyo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c773",
+    "cname": "UD. Sinar Kami",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c774",
+    "cname": "UD. Sumatera Pasak Bumi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c775",
+    "cname": "UD. Sumber Songo",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c776",
+    "cname": "UD. Tama Karya Mandiri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c777",
+    "cname": "UD. Thibbin Therapi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c778",
+    "cname": "UD. Tugu Agung",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c779",
+    "cname": "Usaha Bersama Rio Pinawa",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c780",
+    "cname": "Usaha Nuri",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c781",
+    "cname": "W 1938 W",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c782",
+    "cname": "WD Herbal",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c783",
+    "cname": "Yayasan Ath-Thibbun Nabawi",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c784",
+    "cname": "Yayasan Hikmah Sejati Yogyakarta",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  },
+  {
+    "idcompany": "c785",
+    "cname": "Yayasan Sarana Bhakti",
+    "address": "",
+    "city": "",
+    "country": "",
+    "postcode": "",
+    "contact": "",
+    "url": ""
+  }
+]

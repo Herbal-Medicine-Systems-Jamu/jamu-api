@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"jamu.imports"},{"v":2,"unique":true,"key":{"idimport":1},"name":"idimport_1","ns":"jamu.imports","background":true}],"uuid":"3d1db03d098a43d4a657665b92f5cce0"}

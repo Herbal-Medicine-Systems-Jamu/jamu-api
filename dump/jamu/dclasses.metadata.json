@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"jamu.dclasses"},{"v":2,"unique":true,"key":{"idclass":1},"name":"idclass_1","ns":"jamu.dclasses","background":true}],"uuid":"881c9960707f4dc18c32b6e88c419384"}
