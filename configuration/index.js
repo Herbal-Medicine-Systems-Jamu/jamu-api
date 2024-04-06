@@ -1,4 +1,4 @@
 module.exports = {
-    JWT_SECRET: 'andhijesauthentication',
-    'database': 'mongodb://localhost/jamu'
-}
+  JWT_SECRET: "andhijesauthentication",
+  database: "mongodb://localhost/jamu",
+};
